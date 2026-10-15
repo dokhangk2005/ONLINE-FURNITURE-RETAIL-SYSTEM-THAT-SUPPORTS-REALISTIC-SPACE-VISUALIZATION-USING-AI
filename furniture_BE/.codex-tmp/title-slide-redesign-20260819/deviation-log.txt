@@ -1,4 +1,0 @@
-Slide 1: bỏ bố cục hai cột có ảnh phòng để chuyển sang bìa học thuật tối giản theo yêu cầu mới.
-Slide 1: image hiện có được thay bằng phần logo HUFLIT cắt từ ảnh tham chiếu do người dùng cung cấp.
-Slide 1: 5 textbox hiện có được tái phân vai thành tên trường/khoa, nhãn buổi bảo vệ, tên đề tài, sinh viên và giảng viên hướng dẫn.
-Slide 2-20: không thay đổi.
