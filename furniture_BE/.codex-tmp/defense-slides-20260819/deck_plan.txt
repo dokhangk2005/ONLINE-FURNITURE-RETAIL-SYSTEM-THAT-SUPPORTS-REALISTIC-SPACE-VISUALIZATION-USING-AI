@@ -1,0 +1,32 @@
+Communication job
+By the end, the thesis committee should understand that My Furniture Store is an implemented end-to-end furniture retail platform whose main contribution is combining commerce operations with AI-assisted product selection and room visualization.
+
+Narrative arc
+Problem -> objectives and scope -> end-to-end solution -> architecture -> core workflows -> technical differentiators -> implementation evidence -> demo -> limitations -> conclusion.
+
+Visual route
+Codex Grid layout library. Use slide-08 for image-led splits, slide-09 for one message plus three supporting points, slide-17 for three-stage flows, and slide-26 for the closing. White canvas, black typography, pale gray surfaces, blue accent. Use report screenshots as evidence assets and native PowerPoint shapes only for simple architecture/process diagrams.
+
+Slide sequence and pacing
+01. Title — 0:45
+02. Presentation roadmap — 0:30
+03. The furniture purchase problem is both visual and operational — 1:30
+04. Objectives and project scope — 1:15
+05. One platform connects three roles — 1:20
+06. The customer journey is closed-loop — 1:20
+07. Architecture separates interaction, business logic, AI and data — 1:45
+08. Technology choices match each workload — 1:10
+09. Transactions and delivery preserve business state — 1:20
+10. Recommendations combine basket evidence with product content — 1:30
+11. The visualization pipeline models more than a simple overlay — 2:00
+12. Users retain control while AI adds realism — 1:30
+13. Security, ownership and caching are built into the workflow — 1:20
+14. Customer functions are implemented end-to-end — 1:10
+15. Admin and shipper close the operational loop — 1:20
+16. The implementation is broad and verifiable — 1:20
+17. Live demo in three acts — 5:30
+18. Current limitations define the next research steps — 1:20
+19. Conclusion — 0:50
+20. Questions and discussion — remainder
+
+Speaker-note timing totals about 28 minutes before questions, including a 5.5-minute demo.

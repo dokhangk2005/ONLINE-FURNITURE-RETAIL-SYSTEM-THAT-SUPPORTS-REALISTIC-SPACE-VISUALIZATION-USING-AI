@@ -1,0 +1,420 @@
+{"kind":"layout","layoutId":"/ppt/slideMasters/slideMaster1.xml","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout1.xml","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/y90nupkv","slide":1,"title":"BÁO CÁO KHÓA LUẬN TỐT NGHIỆP","textShapes":5}
+{"kind":"textbox","id":"sh/547294r6","slide":1,"textChars":28,"textLines":1}
+{"kind":"textbox","id":"sh/k3yl0zql","slide":1,"textChars":76,"textLines":1}
+{"kind":"textbox","id":"sh/7qp4be9c","slide":1,"textChars":18,"textLines":1}
+{"kind":"textbox","id":"sh/65g3298r","slide":1,"textChars":61,"textLines":2}
+{"kind":"textbox","id":"sh/ts7md4r2","slide":1,"textChars":45,"textLines":1}
+{"kind":"image","id":"im/dkb2xcfy","slide":1,"name":"","geometry":"roundRect","bbox":[660,42,578,590]}
+{"kind":"notes","id":"nt/y90nupkv","slide":1,"text":"Thời lượng gợi ý: 0:45 | Kính chào Hội đồng. Nhóm trình bày kết quả nghiên cứ..."}
+{"kind":"slide","id":"sl/hwbqtkby","slide":2,"title":"BẢO VỆ KHÓA LUẬN","textShapes":13}
+{"kind":"textbox","id":"sh/s72xofmh","slide":2,"textChars":16,"textLines":1}
+{"kind":"textbox","id":"sh/9072xkry","slide":2,"textChars":55,"textLines":1}
+{"kind":"shape","id":"sh/ozy1ofad","slide":2,"name":"line-8","bbox":[42,146,1196,1]}
+{"kind":"textbox","id":"sh/b29kza94","slide":2,"textChars":2,"textLines":1}
+{"kind":"shape","id":"sh/a10jqpsj","slide":2,"name":"line-10","bbox":[100,365,1080,1]}
+{"kind":"shape","id":"sh/x4r21kru","slide":2,"name":"box-11","bbox":[109,348,34,34]}
+{"kind":"textbox","id":"sh/w3i1sfa9","slide":2,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/r65knqtk","slide":2,"textChars":19,"textLines":1}
+{"kind":"shape","id":"sh/q5wjelsz","slide":2,"name":"box-14","bbox":[335,348,34,34]}
+{"kind":"textbox","id":"sh/ove9o7yd","slide":2,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/9wnqhczy","slide":2,"textChars":21,"textLines":1}
+{"kind":"shape","id":"sh/mtwrmxg7","slide":2,"name":"box-17","bbox":[561,348,34,34]}
+{"kind":"textbox","id":"sh/nu58f2hs","slide":2,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/wjy9sry9","slide":2,"textChars":15,"textLines":1}
+{"kind":"shape","id":"sh/xk7qlczu","slide":2,"name":"box-20","bbox":[787,348,34,34]}
+{"kind":"textbox","id":"sh/ahwrqhgj","slide":2,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/bip8jmho","slide":2,"textChars":14,"textLines":1}
+{"kind":"shape","id":"sh/cnupgny5","slide":2,"name":"box-23","bbox":[1013,348,34,34]}
+{"kind":"textbox","id":"sh/do3q9szq","slide":2,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/t8byxkn2","slide":2,"textChars":26,"textLines":1}
+{"kind":"notes","id":"nt/hwbqtkby","slide":2,"text":"Thời lượng gợi ý: 0:30 | Trình bày tập trung vào kết quả có thể kiểm chứng tr..."}
+{"kind":"slide","id":"sl/ofy9wn61","slide":3,"title":"BẢO VỆ KHÓA LUẬN","textShapes":13}
+{"kind":"textbox","id":"sh/ja54na9g","slide":3,"textChars":16,"textLines":1}
+{"kind":"textbox","id":"sh/cza94vmx","slide":3,"textChars":56,"textLines":1}
+{"kind":"shape","id":"sh/d0jax03i","slide":3,"name":"line-28","bbox":[42,146,1196,1]}
+{"kind":"textbox","id":"sh/298ryl4v","slide":3,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/3ah8rqlg","slide":3,"textChars":145,"textLines":1}
+{"kind":"shape","id":"sh/obq90bml","slide":3,"name":"box-31","bbox":[42,350,372,258]}
+{"kind":"textbox","id":"sh/pcjqtg36","slide":3,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/m5cra54z","slide":3,"textChars":13,"textLines":1}
+{"kind":"textbox","id":"sh/n6ls3alk","slide":3,"textChars":85,"textLines":1}
+{"kind":"shape","id":"sh/n2l4fq98","slide":3,"name":"box-35","bbox":[452,350,372,258]}
+{"kind":"textbox","id":"sh/m1c3mlsn","slide":3,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/943mhgre","slide":3,"textChars":19,"textLines":1}
+{"kind":"textbox","id":"sh/83ulovat","slide":3,"textChars":87,"textLines":1}
+{"kind":"shape","id":"sh/v6l4jq94","slide":3,"name":"box-39","bbox":[862,350,372,258]}
+{"kind":"textbox","id":"sh/a5c3ql8z","slide":3,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/x8nml0ra","slide":3,"textChars":18,"textLines":1}
+{"kind":"textbox","id":"sh/w7ulsvqp","slide":3,"textChars":78,"textLines":1}
+{"kind":"notes","id":"nt/ofy9wn61","slide":3,"text":"Thời lượng gợi ý: 1:30 | Nhấn mạnh đây không chỉ là bài toán xây một website ..."}
+{"kind":"slide","id":"sl/jyx0ra1s","slide":4,"title":"BẢO VỆ KHÓA LUẬN","textShapes":15}
+{"kind":"textbox","id":"sh/gv29g7q5","slide":4,"textChars":16,"textLines":1}
+{"kind":"textbox","id":"sh/1cj2d8b6","slide":4,"textChars":30,"textLines":1}
+{"kind":"shape","id":"sh/0ba143al","slide":4,"name":"line-45","bbox":[42,146,1196,1]}
+{"kind":"textbox","id":"sh/rm1k7yt4","slide":4,"textChars":2,"textLines":1}
+{"kind":"shape","id":"sh/ql8jytsj","slide":4,"name":"line-47","bbox":[42,216,330,1]}
+{"kind":"textbox","id":"sh/doj29oba","slide":4,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/sna103ap","slide":4,"textChars":43,"textLines":1}
+{"kind":"shape","id":"sh/3ihk3et8","slide":4,"name":"line-50","bbox":[456,216,330,1]}
+{"kind":"textbox","id":"sh/ih8ju9sn","slide":4,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/kbm987y5","slide":4,"textChars":54,"textLines":1}
+{"kind":"shape","id":"sh/5cva1cfq","slide":4,"name":"line-53","bbox":[870,216,330,1]}
+{"kind":"textbox","id":"sh/i94r6xgz","slide":4,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/jadsz2xk","slide":4,"textChars":51,"textLines":1}
+{"kind":"shape","id":"sh/w72947yt","slide":4,"name":"line-56","bbox":[42,434,1196,1]}
+{"kind":"textbox","id":"sh/x8vaxsfe","slide":4,"textChars":13,"textLines":1}
+{"kind":"shape","id":"sh/a5kr2xg3","slide":4,"name":"box-58","bbox":[42,523,10,10]}
+{"kind":"textbox","id":"sh/v6tsv2xo","slide":4,"textChars":50,"textLines":1}
+{"kind":"shape","id":"sh/g36tgryd","slide":4,"name":"box-60","bbox":[42,577,10,10]}
+{"kind":"textbox","id":"sh/h4fa9wfy","slide":4,"textChars":49,"textLines":1}
+{"kind":"textbox","id":"sh/p0batw72","slide":4,"textChars":13,"textLines":1}
+{"kind":"shape","id":"sh/oz29krqh","slide":4,"name":"box-63","bbox":[670,523,10,10]}
+{"kind":"textbox","id":"sh/3ytsrmpw","slide":4,"textChars":40,"textLines":1}
+{"kind":"shape","id":"sh/2xkrih8b","slide":4,"name":"box-65","bbox":[670,577,10,10]}
+{"kind":"textbox","id":"sh/1wbapc7q","slide":4,"textChars":44,"textLines":1}
+{"kind":"notes","id":"nt/jyx0ra1s","slide":4,"text":"Thời lượng gợi ý: 1:15 | Làm rõ tiêu chí đánh giá: tính đúng đắn chức năng, k..."}
+{"kind":"slide","id":"sl/i107q5of","slide":5,"title":"BẢO VỆ KHÓA LUẬN","textShapes":13}
+{"kind":"textbox","id":"sh/fe94nm1w","slide":5,"textChars":16,"textLines":1}
+{"kind":"textbox","id":"sh/dgbulwnm","slide":5,"textChars":51,"textLines":1}
+{"kind":"shape","id":"sh/cf2tcr61","slide":5,"name":"line-69","bbox":[42,146,1196,1]}
+{"kind":"textbox","id":"sh/z2tcnm5s","slide":5,"textChars":2,"textLines":1}
+{"kind":"shape","id":"sh/yhkbe1o7","slide":5,"name":"line-71","bbox":[216,365,850,1]}
+{"kind":"shape","id":"sh/l4bupwny","slide":5,"name":"box-72","bbox":[46,216,360,330]}
+{"kind":"shape","id":"sh/032tgr6d","slide":5,"name":"box-73","bbox":[74,245,54,54]}
+{"kind":"textbox","id":"sh/n6dcr65o","slide":5,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/m5kbi1oj","slide":5,"textChars":10,"textLines":1}
+{"kind":"textbox","id":"sh/w32dkbuh","slide":5,"textChars":79,"textLines":3}
+{"kind":"shape","id":"sh/x4vedgvm","slide":5,"name":"box-77","bbox":[458,216,360,330]}
+{"kind":"shape","id":"sh/ahkvi1cb","slide":5,"name":"box-78","bbox":[486,245,54,54]}
+{"kind":"textbox","id":"sh/v2twb6dw","slide":5,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/k7mxovud","slide":5,"textChars":13,"textLines":1}
+{"kind":"textbox","id":"sh/58vehgvy","slide":5,"textChars":88,"textLines":3}
+{"kind":"shape","id":"sh/i54fmlc7","slide":5,"name":"box-82","bbox":[870,216,360,330]}
+{"kind":"shape","id":"sh/j6dwfqds","slide":5,"name":"box-83","bbox":[898,245,54,54]}
+{"kind":"textbox","id":"sh/sb6xsvu9","slide":5,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/tcfel0vu","slide":5,"textChars":19,"textLines":1}
+{"kind":"textbox","id":"sh/hgrmpwj2","slide":5,"textChars":74,"textLines":3}
+{"kind":"textbox","id":"sh/gfi5grih","slide":5,"textChars":78,"textLines":1}
+{"kind":"notes","id":"nt/i107q5of","slide":5,"text":"Thời lượng gợi ý: 1:20 | Mô tả ngắn chức năng mỗi vai trò, tránh liệt kê tất ..."}
+{"kind":"slide","id":"sl/x8f69ofe","slide":6,"title":"BẢO VỆ KHÓA LUẬN","textShapes":19}
+{"kind":"textbox","id":"sh/jet8nm1c","slide":6,"textChars":16,"textLines":1}
+{"kind":"textbox","id":"sh/yhg7epsj","slide":6,"textChars":46,"textLines":1}
+{"kind":"shape","id":"sh/zi98nu94","slide":6,"name":"line-90","bbox":[42,146,1196,1]}
+{"kind":"textbox","id":"sh/87ipkzal","slide":6,"textChars":2,"textLines":1}
+{"kind":"shape","id":"sh/98rqt4r6","slide":6,"name":"arrow-92","bbox":[228,330,62,28]}
+{"kind":"shape","id":"sh/ml07i9sv","slide":6,"name":"arrow-93","bbox":[463,330,62,28]}
+{"kind":"shape","id":"sh/7m98ru9g","slide":6,"name":"arrow-94","bbox":[698,330,62,28]}
+{"kind":"shape","id":"sh/oryp8fah","slide":6,"name":"arrow-95","bbox":[933,330,62,28]}
+{"kind":"shape","id":"sh/pc76hkr2","slide":6,"name":"box-96","bbox":[42,245,188,246]}
+{"kind":"textbox","id":"sh/h4bupgn6","slide":6,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/w32twb6l","slide":6,"textChars":8,"textLines":1}
+{"kind":"textbox","id":"sh/v2tcn650","slide":6,"textChars":53,"textLines":1}
+{"kind":"shape","id":"sh/u1kbu1ov","slide":6,"name":"box-100","bbox":[277,245,188,246]}
+{"kind":"textbox","id":"sh/5svutgni","slide":6,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/47mt0b6x","slide":6,"textChars":8,"textLines":1}
+{"kind":"textbox","id":"sh/j6dcr65c","slide":6,"textChars":45,"textLines":1}
+{"kind":"shape","id":"sh/i54bylor","slide":6,"name":"box-104","bbox":[512,245,188,246]}
+{"kind":"textbox","id":"sh/twfux0ne","slide":6,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/svmt4v6t","slide":6,"textChars":10,"textLines":1}
+{"kind":"textbox","id":"sh/cbe5g3ih","slide":6,"textChars":47,"textLines":1}
+{"kind":"shape","id":"sh/dcnm98zm","slide":6,"name":"box-108","bbox":[747,245,188,246]}
+{"kind":"textbox","id":"sh/qpwnet0b","slide":6,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/bq547yhw","slide":6,"textChars":10,"textLines":1}
+{"kind":"textbox","id":"sh/0fy5k3id","slide":6,"textChars":40,"textLines":1}
+{"kind":"shape","id":"sh/lg76d8zy","slide":6,"name":"box-112","bbox":[982,245,188,246]}
+{"kind":"textbox","id":"sh/ydgnit07","slide":6,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/zep4byhs","slide":6,"textChars":8,"textLines":1}
+{"kind":"textbox","id":"sh/gju58ji9","slide":6,"textChars":42,"textLines":1}
+{"kind":"textbox","id":"sh/1k3mhozu","slide":6,"textChars":88,"textLines":1}
+{"kind":"notes","id":"nt/x8f69ofe","slide":6,"text":"Thời lượng gợi ý: 1:20 | Dùng một ví dụ đơn giản: khách tìm bàn ăn, xem thử t..."}
+{"kind":"slide","id":"sl/gnmp4jqx","slide":7,"title":"BẢO VỆ KHÓA LUẬN","textShapes":13}
+{"kind":"textbox","id":"sh/q143ylov","slide":7,"textChars":16,"textLines":1}
+{"kind":"textbox","id":"sh/cb2tkvap","slide":7,"textChars":50,"textLines":1}
+{"kind":"shape","id":"sh/dcbud0ra","slide":7,"name":"line-119","bbox":[42,146,1196,1]}
+{"kind":"textbox","id":"sh/ydkbm5sv","slide":7,"textChars":2,"textLines":1}
+{"kind":"shape","id":"sh/zedcfa9g","slide":7,"name":"arrow-121","bbox":[330,309,72,30]}
+{"kind":"shape","id":"sh/kzmdova1","slide":7,"name":"arrow-122","bbox":[655,309,72,30]}
+{"kind":"shape","id":"sh/l0vuh0rm","slide":7,"name":"arrow-123","bbox":[962,309,72,30]}
+{"kind":"shape","id":"sh/eh0ba1sr","slide":7,"name":"box-124","bbox":[527,456,6,74]}
+{"kind":"shape","id":"sh/fi9c369c","slide":7,"name":"box-125","bbox":[42,234,290,220]}
+{"kind":"textbox","id":"sh/baxkjqlk","slide":7,"textChars":14,"textLines":1}
+{"kind":"textbox","id":"sh/a9ojq5kz","slide":7,"textChars":54,"textLines":3}
+{"kind":"shape","id":"sh/xcz2l03q","slide":7,"name":"box-128","bbox":[402,234,250,220]}
+{"kind":"textbox","id":"sh/cbq1sv25","slide":7,"textChars":12,"textLines":1}
+{"kind":"textbox","id":"sh/n6x0fqlo","slide":7,"textChars":49,"textLines":3}
+{"kind":"shape","id":"sh/25ojml43","slide":7,"name":"box-131","bbox":[727,234,235,220]}
+{"kind":"textbox","id":"sh/p8fih03e","slide":7,"textChars":16,"textLines":1}
+{"kind":"textbox","id":"sh/o761ov2t","slide":7,"textChars":34,"textLines":3}
+{"kind":"shape","id":"sh/f2d0b6lc","slide":7,"name":"box-134","bbox":[1034,234,204,220]}
+{"kind":"textbox","id":"sh/eh4jil4r","slide":7,"textChars":13,"textLines":1}
+{"kind":"textbox","id":"sh/id4ju1oz","slide":7,"textChars":41,"textLines":3}
+{"kind":"shape","id":"sh/jedkn654","slide":7,"name":"box-137","bbox":[402,542,250,116]}
+{"kind":"textbox","id":"sh/4fm1wb6p","slide":7,"textChars":10,"textLines":1}
+{"kind":"textbox","id":"sh/50v2pgna","slide":7,"textChars":24,"textLines":1}
+{"kind":"notes","id":"nt/gnmp4jqx","slide":7,"text":"Thời lượng gợi ý: 1:45 | Đi từ trái sang phải theo một request thông thường. ..."}
+{"kind":"slide","id":"sl/fu1gfa1s","slide":8,"title":"BẢO VỆ KHÓA LUẬN","textShapes":12}
+{"kind":"textbox","id":"sh/lgbepgvm","slide":8,"textChars":16,"textLines":1}
+{"kind":"textbox","id":"sh/18byd4zy","slide":8,"textChars":47,"textLines":1}
+{"kind":"shape","id":"sh/g72x4zyd","slide":8,"name":"line-142","bbox":[42,146,1196,1]}
+{"kind":"textbox","id":"sh/ri9g7uhw","slide":8,"textChars":2,"textLines":1}
+{"kind":"shape","id":"sh/6h0fypgb","slide":8,"name":"line-144","bbox":[42,228,260,1]}
+{"kind":"textbox","id":"sh/tkby9kzm","slide":8,"textChars":7,"textLines":1}
+{"kind":"textbox","id":"sh/sjix0zy1","slide":8,"textChars":77,"textLines":1}
+{"kind":"shape","id":"sh/je9g3ahk","slide":8,"name":"line-147","bbox":[346,228,260,1]}
+{"kind":"textbox","id":"sh/id0fu50z","slide":8,"textChars":12,"textLines":1}
+{"kind":"textbox","id":"sh/o7ydoret","slide":8,"textChars":69,"textLines":1}
+{"kind":"shape","id":"sh/98rehwve","slide":8,"name":"line-150","bbox":[650,228,260,1]}
+{"kind":"textbox","id":"sh/m5gvmhwn","slide":8,"textChars":10,"textLines":1}
+{"kind":"textbox","id":"sh/n6pwfmd8","slide":8,"textChars":73,"textLines":1}
+{"kind":"shape","id":"sh/0jydkreh","slide":8,"name":"line-153","bbox":[954,228,260,1]}
+{"kind":"textbox","id":"sh/1k7edwv2","slide":8,"textChars":14,"textLines":1}
+{"kind":"textbox","id":"sh/ehgvihwr","slide":8,"textChars":81,"textLines":1}
+{"kind":"shape","id":"sh/zipwbmdc","slide":8,"name":"box-156","bbox":[42,532,1196,90]}
+{"kind":"textbox","id":"sh/kfixwbe1","slide":8,"textChars":121,"textLines":1}
+{"kind":"notes","id":"nt/fu1gfa1s","slide":8,"text":"Thời lượng gợi ý: 1:10 | Giải thích lựa chọn theo trách nhiệm thay vì chỉ đọc..."}
+{"kind":"slide","id":"sl/udsvah03","slide":9,"title":"BẢO VỆ KHÓA LUẬN","textShapes":12}
+{"kind":"textbox","id":"sh/0ru1ozyp","slide":9,"textChars":16,"textLines":1}
+{"kind":"textbox","id":"sh/1cfmhgne","slide":9,"textChars":44,"textLines":1}
+{"kind":"shape","id":"sh/0b65obm9","slide":9,"name":"line-160","bbox":[42,146,1196,1]}
+{"kind":"textbox","id":"sh/nex4jq5k","slide":9,"textChars":2,"textLines":1}
+{"kind":"shape","id":"sh/mdonql4z","slide":9,"name":"line-162","bbox":[88,352,1070,1]}
+{"kind":"textbox","id":"sh/9gzml0nq","slide":9,"textChars":12,"textLines":1}
+{"kind":"shape","id":"sh/ofq5svm5","slide":9,"name":"box-164","bbox":[46,339,24,24]}
+{"kind":"textbox","id":"sh/bih4na5w","slide":9,"textChars":16,"textLines":1}
+{"kind":"textbox","id":"sh/ah8nu54b","slide":9,"textChars":64,"textLines":1}
+{"kind":"textbox","id":"sh/oza1gfyh","slide":9,"textChars":15,"textLines":1}
+{"kind":"shape","id":"sh/p0ji9kf2","slide":9,"name":"box-168","bbox":[456,339,24,24]}
+{"kind":"textbox","id":"sh/2xsjepgb","slide":9,"textChars":16,"textLines":1}
+{"kind":"textbox","id":"sh/3y107axw","slide":9,"textChars":74,"textLines":1}
+{"kind":"textbox","id":"sh/cnu1kzyd","slide":9,"textChars":14,"textLines":1}
+{"kind":"shape","id":"sh/do3id4fy","slide":9,"name":"box-172","bbox":[866,339,24,24]}
+{"kind":"textbox","id":"sh/qlcjipgn","slide":9,"textChars":20,"textLines":1}
+{"kind":"textbox","id":"sh/bml0buxs","slide":9,"textChars":66,"textLines":1}
+{"kind":"notes","id":"nt/udsvah03","slide":9,"text":"Thời lượng gợi ý: 1:20 | Nêu ví dụ tranh chấp tồn kho: transaction giúp tránh..."}
+{"kind":"slide","id":"sl/m90b6t0r","slide":10,"title":"BẢO VỆ KHÓA LUẬN","textShapes":11}
+{"kind":"textbox","id":"sh/0bit8b2d","slide":10,"textChars":16,"textLines":1}
+{"kind":"textbox","id":"sh/xc3mho32","slide":10,"textChars":33,"textLines":1}
+{"kind":"shape","id":"sh/cbu58j2h","slide":10,"name":"line-177","bbox":[42,146,1196,1]}
+{"kind":"textbox","id":"sh/zelojyl8","slide":10,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/ydcnatkn","slide":10,"textChars":7,"textLines":1}
+{"kind":"textbox","id":"sh/l036l83y","slide":10,"textChars":75,"textLines":1}
+{"kind":"textbox","id":"sh/kzu5c32t","slide":10,"textChars":7,"textLines":1}
+{"kind":"textbox","id":"sh/725onyl4","slide":10,"textChars":32,"textLines":1}
+{"kind":"textbox","id":"sh/m1cnetkj","slide":10,"textChars":10,"textLines":1}
+{"kind":"textbox","id":"sh/s7yt4b21","slide":10,"textChars":27,"textLines":1}
+{"kind":"textbox","id":"sh/d87uxg3m","slide":10,"textChars":13,"textLines":1}
+{"kind":"textbox","id":"sh/q5gb21kb","slide":10,"textChars":96,"textLines":1}
+{"kind":"image","id":"im/6dwz29kf","slide":10,"name":"","geometry":"roundRect","bbox":[524,249.83,714,318.34]}
+{"kind":"notes","id":"nt/m90b6t0r","slide":10,"text":"Thời lượng gợi ý: 1:30 | Giải thích hai nhóm gợi ý được trình bày riêng để ng..."}
+{"kind":"slide","id":"sl/jetc3ut0","slide":11,"title":"BẢO VỆ KHÓA LUẬN","textShapes":21}
+{"kind":"textbox","id":"sh/98jedc3u","slide":11,"textChars":16,"textLines":1}
+{"kind":"textbox","id":"sh/xcryxg7y","slide":11,"textChars":34,"textLines":1}
+{"kind":"shape","id":"sh/wbih4b6d","slide":11,"name":"line-189","bbox":[42,146,1196,1]}
+{"kind":"textbox","id":"sh/n69grmpw","slide":11,"textChars":2,"textLines":1}
+{"kind":"shape","id":"sh/250zy18b","slide":11,"name":"arrow-191","bbox":[350,268,68,28]}
+{"kind":"shape","id":"sh/98rytw72","slide":11,"name":"arrow-192","bbox":[760,268,68,28]}
+{"kind":"shape","id":"sh/o7ih0r6h","slide":11,"name":"arrow-193","bbox":[350,500,68,28]}
+{"kind":"shape","id":"sh/72t03qp0","slide":11,"name":"arrow-194","bbox":[760,500,68,28]}
+{"kind":"shape","id":"sh/61kzalof","slide":11,"name":"box-195","bbox":[42,210,330,150]}
+{"kind":"textbox","id":"sh/ofqtgnyt","slide":11,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/9gza9sze","slide":11,"textChars":7,"textLines":1}
+{"kind":"textbox","id":"sh/mdobedg3","slide":11,"textChars":14,"textLines":1}
+{"kind":"shape","id":"sh/nehs7iho","slide":11,"name":"box-199","bbox":[452,210,330,150]}
+{"kind":"textbox","id":"sh/0b6tc3yx","slide":11,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/1cfa58zi","slide":11,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/epobatgr","slide":11,"textChars":22,"textLines":1}
+{"kind":"shape","id":"sh/zaxs3yhc","slide":11,"name":"box-203","bbox":[862,210,330,150]}
+{"kind":"textbox","id":"sh/cn6t83y1","slide":11,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/dofa18z6","slide":11,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/tsnip0ny","slide":11,"textChars":17,"textLines":1}
+{"kind":"shape","id":"sh/87ehgv6d","slide":11,"name":"box-207","bbox":[42,442,330,150]}
+{"kind":"textbox","id":"sh/7650nq5s","slide":11,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/65wzelo7","slide":11,"textChars":11,"textLines":1}
+{"kind":"textbox","id":"sh/l43ilgn2","slide":11,"textChars":24,"textLines":1}
+{"kind":"shape","id":"sh/k3uhcb6h","slide":11,"name":"box-211","bbox":[452,442,330,150]}
+{"kind":"textbox","id":"sh/j2lgjq5w","slide":11,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/y1czalob","slide":11,"textChars":8,"textLines":1}
+{"kind":"textbox","id":"sh/p07ixkn6","slide":11,"textChars":25,"textLines":1}
+{"kind":"shape","id":"sh/4zyhofml","slide":11,"name":"box-215","bbox":[862,442,330,150]}
+{"kind":"textbox","id":"sh/m58fih43","slide":11,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/n61wbmlo","slide":11,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/o7axk7m9","slide":11,"textChars":27,"textLines":1}
+{"kind":"notes","id":"nt/jetc3ut0","slide":11,"text":"Thời lượng gợi ý: 2:00 | Đây là đóng góp kỹ thuật nổi bật nhất, nên giải thíc..."}
+{"kind":"slide","id":"sl/8f2psfyx","slide":12,"title":"BẢO VỆ KHÓA LUẬN","textShapes":8}
+{"kind":"textbox","id":"sh/9sj65kn2","slide":12,"textChars":16,"textLines":1}
+{"kind":"textbox","id":"sh/1gbm9s3a","slide":12,"textChars":42,"textLines":1}
+{"kind":"shape","id":"sh/0f2lgnmp","slide":12,"name":"line-221","bbox":[42,146,1196,1]}
+{"kind":"textbox","id":"sh/ra943il8","slide":12,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/dcbm583y","slide":12,"textChars":17,"textLines":1}
+{"kind":"shape","id":"sh/sb2lcnmd","slide":12,"name":"box-224","bbox":[900,294,10,10]}
+{"kind":"textbox","id":"sh/b6d4f2lc","slide":12,"textChars":56,"textLines":1}
+{"kind":"shape","id":"sh/a543mx4r","slide":12,"name":"box-226","bbox":[900,382,10,10]}
+{"kind":"textbox","id":"sh/wvupgz6t","slide":12,"textChars":57,"textLines":1}
+{"kind":"shape","id":"sh/xw3q94ne","slide":12,"name":"box-228","bbox":[900,470,10,10]}
+{"kind":"textbox","id":"sh/atc7epon","slide":12,"textChars":41,"textLines":1}
+{"kind":"shape","id":"sh/bulo7u58","slide":12,"name":"box-230","bbox":[900,540,310,100]}
+{"kind":"textbox","id":"sh/orapcf6h","slide":12,"textChars":89,"textLines":1}
+{"kind":"image","id":"im/1wf6x03u","slide":12,"name":"","geometry":"roundRect","bbox":[42,229.07,810,365.86]}
+{"kind":"notes","id":"nt/8f2psfyx","slide":12,"text":"Thời lượng gợi ý: 1:30 | Chỉ rõ các điều khiển nằm ở cột bên phải và hai chế ..."}
+{"kind":"slide","id":"sl/hgzapcr6","slide":13,"title":"BẢO VỆ KHÓA LUẬN","textShapes":16}
+{"kind":"textbox","id":"sh/ipcjmtw7","slide":13,"textChars":16,"textLines":1}
+{"kind":"textbox","id":"sh/q50nydsj","slide":13,"textChars":44,"textLines":1}
+{"kind":"shape","id":"sh/bq9orito","slide":13,"name":"line-234","bbox":[42,146,1196,1]}
+{"kind":"textbox","id":"sh/o3i5w3ad","slide":13,"textChars":2,"textLines":1}
+{"kind":"shape","id":"sh/p4r6p8by","slide":13,"name":"line-236","bbox":[42,212,370,1]}
+{"kind":"textbox","id":"sh/21gnuts7","slide":13,"textChars":21,"textLines":1}
+{"kind":"shape","id":"sh/32ponyts","slide":13,"name":"box-238","bbox":[42,338,10,10]}
+{"kind":"textbox","id":"sh/gzy5s3a1","slide":13,"textChars":15,"textLines":1}
+{"kind":"shape","id":"sh/1076lobm","slide":13,"name":"box-240","bbox":[42,413,10,10]}
+{"kind":"textbox","id":"sh/hcfy9k3u","slide":13,"textChars":19,"textLines":1}
+{"kind":"shape","id":"sh/gb6x0zm9","slide":13,"name":"box-242","bbox":[42,488,10,10]}
+{"kind":"textbox","id":"sh/vaxg7ulo","slide":13,"textChars":26,"textLines":1}
+{"kind":"shape","id":"sh/u9ofyp43","slide":13,"name":"line-244","bbox":[452,212,370,1]}
+{"kind":"textbox","id":"sh/t8fy5k3i","slide":13,"textChars":18,"textLines":1}
+{"kind":"shape","id":"sh/876xwfmx","slide":13,"name":"box-246","bbox":[452,338,10,10]}
+{"kind":"textbox","id":"sh/7mdg3als","slide":13,"textChars":23,"textLines":1}
+{"kind":"shape","id":"sh/6l4fu547","slide":13,"name":"box-248","bbox":[452,413,10,10]}
+{"kind":"textbox","id":"sh/lkvy103m","slide":13,"textChars":21,"textLines":1}
+{"kind":"shape","id":"sh/kjmxsfm1","slide":13,"name":"box-250","bbox":[452,488,10,10]}
+{"kind":"textbox","id":"sh/cnqh8fux","slide":13,"textChars":29,"textLines":1}
+{"kind":"shape","id":"sh/xozyhkbi","slide":13,"name":"line-252","bbox":[862,212,370,1]}
+{"kind":"textbox","id":"sh/q18f65cr","slide":13,"textChars":14,"textLines":1}
+{"kind":"shape","id":"sh/bmhgfatc","slide":13,"name":"box-254","bbox":[862,338,10,10]}
+{"kind":"textbox","id":"sh/oz6x4vul","slide":13,"textChars":33,"textLines":1}
+{"kind":"shape","id":"sh/p0zyd0b6","slide":13,"name":"box-256","bbox":[862,413,10,10]}
+{"kind":"textbox","id":"sh/2xof2lcv","slide":13,"textChars":20,"textLines":1}
+{"kind":"shape","id":"sh/3yxgbqdg","slide":13,"name":"box-258","bbox":[862,488,10,10]}
+{"kind":"textbox","id":"sh/8vahgzu5","slide":13,"textChars":31,"textLines":1}
+{"kind":"shape","id":"sh/9wjyp4bq","slide":13,"name":"box-260","bbox":[42,578,1196,62]}
+{"kind":"textbox","id":"sh/jqlkfyds","slide":13,"textChars":86,"textLines":1}
+{"kind":"notes","id":"nt/hgzapcr6","slide":13,"text":"Thời lượng gợi ý: 1:20 | Không đi sâu vào từng lớp mã nguồn; nhóm các biện ph..."}
+{"kind":"slide","id":"sl/6lsnupw7","slide":14,"title":"BẢO VỆ KHÓA LUẬN","textShapes":9}
+{"kind":"textbox","id":"sh/y5wjitgj","slide":14,"textChars":16,"textLines":1}
+{"kind":"textbox","id":"sh/xc7eds76","slide":14,"textChars":40,"textLines":1}
+{"kind":"shape","id":"sh/wbydknq1","slide":14,"name":"line-264","bbox":[42,146,1196,1]}
+{"kind":"textbox","id":"sh/jepwf2pc","slide":14,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/idgvmx8r","slide":14,"textChars":26,"textLines":1}
+{"kind":"shape","id":"sh/5grehs7i","slide":14,"name":"box-267","bbox":[42,258,10,10]}
+{"kind":"textbox","id":"sh/kfidonqx","slide":14,"textChars":30,"textLines":1}
+{"kind":"shape","id":"sh/zi5c3y98","slide":14,"name":"box-269","bbox":[42,320,10,10]}
+{"kind":"textbox","id":"sh/ehwvat8n","slide":14,"textChars":34,"textLines":1}
+{"kind":"shape","id":"sh/c3e1gjyd","slide":14,"name":"box-271","bbox":[42,382,10,10]}
+{"kind":"textbox","id":"sh/x4ni9ofy","slide":14,"textChars":31,"textLines":1}
+{"kind":"textbox","id":"sh/a1wze9g7","slide":14,"textChars":26,"textLines":1}
+{"kind":"textbox","id":"sh/b2507exs","slide":14,"textChars":90,"textLines":1}
+{"kind":"image","id":"im/srad4v21","slide":14,"name":"","geometry":"roundRect","bbox":[570.76,186,568.47,288]}
+{"kind":"image","id":"im/bmlw7u10","slide":14,"name":"","geometry":"roundRect","bbox":[887.93,495,144.14,170]}
+{"kind":"notes","id":"nt/6lsnupw7","slide":14,"text":"Thời lượng gợi ý: 1:10 | Dùng ảnh thật để chứng minh luồng khách hàng đã có g..."}
+{"kind":"slide","id":"sl/vaxsvy10","slide":15,"title":"BẢO VỆ KHÓA LUẬN","textShapes":9}
+{"kind":"textbox","id":"sh/4vm9ovel","slide":15,"textChars":16,"textLines":1}
+{"kind":"textbox","id":"sh/547mhg3m","slide":15,"textChars":47,"textLines":1}
+{"kind":"shape","id":"sh/k3y5ov21","slide":15,"name":"line-277","bbox":[42,146,1196,1]}
+{"kind":"textbox","id":"sh/76p4jqls","slide":15,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/t87ml0ji","slide":15,"textChars":5,"textLines":1}
+{"kind":"textbox","id":"sh/s7y5sv2x","slide":15,"textChars":30,"textLines":1}
+{"kind":"textbox","id":"sh/m9c3e1kn","slide":15,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/wrm9kvep","slide":15,"textChars":36,"textLines":1}
+{"kind":"textbox","id":"sh/upkrilwj","slide":15,"textChars":7,"textLines":1}
+{"kind":"textbox","id":"sh/vqdsrqx4","slide":15,"textChars":43,"textLines":1}
+{"kind":"image","id":"im/ids3ids7","slide":15,"name":"","geometry":"roundRect","bbox":[42,259.05,370,167.9]}
+{"kind":"image","id":"im/503mdsry","slide":15,"name":"","geometry":"roundRect","bbox":[452,259.06,370,167.88]}
+{"kind":"image","id":"im/4fulknqd","slide":15,"name":"","geometry":"roundRect","bbox":[862,259.69,370,166.63]}
+{"kind":"notes","id":"nt/vaxsvy10","slide":15,"text":"Thời lượng gợi ý: 1:20 | Giải thích vòng trạng thái: Admin xác nhận và phân c..."}
+{"kind":"slide","id":"sl/gny5sjyp","slide":16,"title":"BẢO VỆ KHÓA LUẬN","textShapes":15}
+{"kind":"textbox","id":"sh/ylwj2987","slide":16,"textChars":16,"textLines":1}
+{"kind":"textbox","id":"sh/8z2h8bq1","slide":16,"textChars":37,"textLines":1}
+{"kind":"shape","id":"sh/9kby1g7m","slide":16,"name":"line-287","bbox":[42,146,1196,1]}
+{"kind":"textbox","id":"sh/ytkf2h8j","slide":16,"textChars":2,"textLines":1}
+{"kind":"shape","id":"sh/zutgvm94","slide":16,"name":"line-289","bbox":[42,216,250,1]}
+{"kind":"textbox","id":"sh/kv2h4rqp","slide":16,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/lwbyxwra","slide":16,"textChars":18,"textLines":1}
+{"kind":"shape","id":"sh/ip4zel83","slide":16,"name":"line-292","bbox":[350,216,250,1]}
+{"kind":"textbox","id":"sh/3qdg7qpo","slide":16,"textChars":3,"textLines":1}
+{"kind":"textbox","id":"sh/fm1gzq5o","slide":16,"textChars":13,"textLines":1}
+{"kind":"shape","id":"sh/e1sf65o3","slide":16,"name":"line-295","bbox":[658,216,250,1]}
+{"kind":"textbox","id":"sh/1ojy10ne","slide":16,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/gnax8v6t","slide":16,"textChars":16,"textLines":1}
+{"kind":"shape","id":"sh/nqlg3a5k","slide":16,"name":"line-298","bbox":[966,216,250,1]}
+{"kind":"textbox","id":"sh/2pcfa5oz","slide":16,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/ps3y5knq","slide":16,"textChars":23,"textLines":1}
+{"kind":"shape","id":"sh/oruhcf65","slide":16,"name":"line-301","bbox":[42,426,1196,1]}
+{"kind":"shape","id":"sh/bulg7u5g","slide":16,"name":"box-302","bbox":[42,478,570,132]}
+{"kind":"textbox","id":"sh/atczepob","slide":16,"textChars":13,"textLines":1}
+{"kind":"textbox","id":"sh/mpgj6t8j","slide":16,"textChars":31,"textLines":1}
+{"kind":"shape","id":"sh/7qp0zepo","slide":16,"name":"box-305","bbox":[668,478,570,132]}
+{"kind":"textbox","id":"sh/8by18jq9","slide":16,"textChars":8,"textLines":1}
+{"kind":"textbox","id":"sh/9c7i1o7u","slide":16,"textChars":27,"textLines":1}
+{"kind":"notes","id":"nt/gny5sjyp","slide":16,"text":"Thời lượng gợi ý: 1:20 | Các số liệu được đếm từ source code trong workspace,..."}
+{"kind":"slide","id":"sl/14bup87q","slide":17,"title":"BẢO VỆ KHÓA LUẬN","textShapes":13}
+{"kind":"textbox","id":"sh/90nq9gfi","slide":17,"textChars":16,"textLines":1}
+{"kind":"textbox","id":"sh/1c7e50ni","slide":17,"textChars":55,"textLines":1}
+{"kind":"shape","id":"sh/gbedwfmx","slide":17,"name":"line-310","bbox":[42,146,1196,1]}
+{"kind":"textbox","id":"sh/rm5czq50","slide":17,"textChars":2,"textLines":1}
+{"kind":"shape","id":"sh/6lwvql4v","slide":17,"name":"line-312","bbox":[88,352,1070,1]}
+{"kind":"textbox","id":"sh/t8ne10n6","slide":17,"textChars":6,"textLines":1}
+{"kind":"shape","id":"sh/snedsvml","slide":17,"name":"box-314","bbox":[46,339,24,24]}
+{"kind":"textbox","id":"sh/jilcvq54","slide":17,"textChars":10,"textLines":1}
+{"kind":"textbox","id":"sh/ihcvml4j","slide":17,"textChars":49,"textLines":1}
+{"kind":"textbox","id":"sh/4by9or6l","slide":17,"textChars":6,"textLines":1}
+{"kind":"shape","id":"sh/pc7qhwn6","slide":17,"name":"box-318","bbox":[456,339,24,24]}
+{"kind":"textbox","id":"sh/29grm1of","slide":17,"textChars":8,"textLines":1}
+{"kind":"textbox","id":"sh/3ap8fm50","slide":17,"textChars":46,"textLines":1}
+{"kind":"textbox","id":"sh/gnepkr69","slide":17,"textChars":6,"textLines":1}
+{"kind":"shape","id":"sh/honqdwnu","slide":17,"name":"box-322","bbox":[866,339,24,24]}
+{"kind":"textbox","id":"sh/ulw7ihoj","slide":17,"textChars":8,"textLines":1}
+{"kind":"textbox","id":"sh/fm58bm54","slide":17,"textChars":50,"textLines":1}
+{"kind":"shape","id":"sh/0ji9wb6t","slide":17,"name":"box-325","bbox":[220,596,840,52]}
+{"kind":"textbox","id":"sh/14rqpgne","slide":17,"textChars":106,"textLines":1}
+{"kind":"notes","id":"nt/14bup87q","slide":17,"text":"Thời lượng gợi ý: 5:30 | Chuẩn bị sẵn tài khoản khách hàng, Admin và Shipper ..."}
+{"kind":"slide","id":"sl/y5wne50z","slide":18,"title":"BẢO VỆ KHÓA LUẬN","textShapes":18}
+{"kind":"textbox","id":"sh/90v6t4ri","slide":18,"textChars":16,"textLines":1}
+{"kind":"textbox","id":"sh/wrelszu9","slide":18,"textChars":55,"textLines":1}
+{"kind":"shape","id":"sh/hsn2l4bu","slide":18,"name":"line-329","bbox":[42,146,1196,1]}
+{"kind":"textbox","id":"sh/itw3upcf","slide":18,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/je5knut0","slide":18,"textChars":22,"textLines":1}
+{"kind":"textbox","id":"sh/4felwzu5","slide":18,"textChars":8,"textLines":1}
+{"kind":"textbox","id":"sh/5gnmp4bq","slide":18,"textChars":72,"textLines":1}
+{"kind":"shape","id":"sh/6hw3y9sb","slide":18,"name":"line-334","bbox":[42,470,370,1]}
+{"kind":"textbox","id":"sh/rip4retw","slide":18,"textChars":14,"textLines":1}
+{"kind":"textbox","id":"sh/fapkr6pw","slide":18,"textChars":62,"textLines":1}
+{"kind":"textbox","id":"sh/upg3i18r","slide":18,"textChars":17,"textLines":1}
+{"kind":"textbox","id":"sh/1cr2tg72","slide":18,"textChars":8,"textLines":1}
+{"kind":"textbox","id":"sh/gbylkbqh","slide":18,"textChars":75,"textLines":1}
+{"kind":"shape","id":"sh/7mpknmp0","slide":18,"name":"line-340","bbox":[452,470,370,1]}
+{"kind":"textbox","id":"sh/6lg3e18f","slide":18,"textChars":14,"textLines":1}
+{"kind":"textbox","id":"sh/to72pw76","slide":18,"textChars":73,"textLines":1}
+{"kind":"textbox","id":"sh/snylgrql","slide":18,"textChars":21,"textLines":1}
+{"kind":"textbox","id":"sh/bi94zqp4","slide":18,"textChars":8,"textLines":1}
+{"kind":"textbox","id":"sh/qh03ql8j","slide":18,"textChars":71,"textLines":1}
+{"kind":"shape","id":"sh/md4nipsr","slide":18,"name":"line-346","bbox":[862,470,370,1]}
+{"kind":"textbox","id":"sh/nedoru9c","slide":18,"textChars":14,"textLines":1}
+{"kind":"textbox","id":"sh/8zm5kzax","slide":18,"textChars":70,"textLines":1}
+{"kind":"notes","id":"nt/y5wne50z","slide":18,"text":"Thời lượng gợi ý: 1:20 | Trình bày thẳng các giới hạn để định vị đúng mức độ ..."}
+{"kind":"slide","id":"sl/nid43ytk","slide":19,"title":"BẢO VỆ KHÓA LUẬN","textShapes":11}
+{"kind":"textbox","id":"sh/et0jix8r","slide":19,"textChars":16,"textLines":1}
+{"kind":"textbox","id":"sh/9gb6xgbi","slide":19,"textChars":48,"textLines":1}
+{"kind":"shape","id":"sh/8v2pobax","slide":19,"name":"line-351","bbox":[42,146,1196,1]}
+{"kind":"textbox","id":"sh/vitozqt8","slide":19,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/ahk7qls3","slide":19,"textChars":168,"textLines":1}
+{"kind":"shape","id":"sh/xkbq10be","slide":19,"name":"line-354","bbox":[42,370,370,1]}
+{"kind":"textbox","id":"sh/wj2psvat","slide":19,"textChars":18,"textLines":1}
+{"kind":"textbox","id":"sh/jmd83atk","slide":19,"textChars":52,"textLines":1}
+{"kind":"shape","id":"sh/il47u5sz","slide":19,"name":"line-357","bbox":[452,370,370,1]}
+{"kind":"textbox","id":"sh/cri1gnql","slide":19,"textChars":16,"textLines":1}
+{"kind":"textbox","id":"sh/dsri9sr6","slide":19,"textChars":64,"textLines":1}
+{"kind":"shape","id":"sh/qpgjex8f","slide":19,"name":"line-360","bbox":[862,370,370,1]}
+{"kind":"textbox","id":"sh/rqp07290","slide":19,"textChars":16,"textLines":1}
+{"kind":"textbox","id":"sh/0vi1k7qx","slide":19,"textChars":68,"textLines":1}
+{"kind":"textbox","id":"sh/1gridcr2","slide":19,"textChars":90,"textLines":1}
+{"kind":"notes","id":"nt/nid43ytk","slide":19,"text":"Thời lượng gợi ý: 0:50 | Khép lại bằng cách trả lời đúng bài toán mở đầu: hỗ ..."}
+{"kind":"slide","id":"sl/zyxsni5k","slide":20,"title":"BẢO VỆ KHÓA LUẬN","textShapes":5}
+{"kind":"textbox","id":"sh/3ml0rmpw","slide":20,"textChars":16,"textLines":1}
+{"kind":"textbox","id":"sh/qpwjmh8n","slide":20,"textChars":15,"textLines":1}
+{"kind":"textbox","id":"sh/rq50vmp8","slide":20,"textChars":35,"textLines":1}
+{"kind":"textbox","id":"sh/4nu1krqh","slide":20,"textChars":35,"textLines":2}
+{"kind":"shape","id":"sh/po3itc72","slide":20,"name":"box-368","bbox":[1030,482,208,160]}
+{"kind":"textbox","id":"sh/2lczih8r","slide":20,"textChars":3,"textLines":1}
+{"kind":"notes","id":"nt/zyxsni5k","slide":20,"text":"Thời lượng gợi ý: Phần còn lại | Mời Hội đồng đặt câu hỏi. | Ưu tiên trả lời ..."}
+{"kind":"notice","message":"Truncated: omitted 0 lines. Increase maxChars or narrow target."}

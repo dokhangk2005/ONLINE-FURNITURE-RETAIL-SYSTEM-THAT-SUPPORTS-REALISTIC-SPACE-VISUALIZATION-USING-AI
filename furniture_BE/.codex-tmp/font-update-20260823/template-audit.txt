@@ -1,0 +1,5 @@
+Nguồn: BaoCao_BaoVe_KhoaLuan_MyFurnitureStore_TrangDau_ToiGian.pptx
+Tỷ lệ: 16:9, gồm 20 slide.
+Ngôn ngữ thiết kế: nền sáng, chữ xanh navy, điểm nhấn xanh lá/cam, hình khối bo góc và ảnh chụp sản phẩm.
+Hệ thống chữ gốc: Arial; tiêu đề đậm, nội dung regular/bold theo cấp bậc sẵn có.
+Quy tắc chỉnh sửa: giữ nguyên số slide, thứ tự, nội dung, hình ảnh, vị trí, màu sắc, hiệu ứng, ghi chú và cấu trúc; chỉ thay toàn bộ chữ sang Times New Roman và tăng cỡ chữ nhẹ.

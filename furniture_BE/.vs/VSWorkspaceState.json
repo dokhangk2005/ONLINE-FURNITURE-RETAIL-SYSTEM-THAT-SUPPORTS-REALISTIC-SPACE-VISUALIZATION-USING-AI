@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\furniture_BE",
+    "\\furniture_BE\\Controllers",
+    "\\furniture_BE\\Data",
+    "\\furniture_BE\\Migrations",
+    "\\furniture_BE\\Models"
+  ],
+  "SelectedNode": "\\furniture_BE\\Migrations\\20260703181447_SeedData_AddProducts.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,7 @@
+starting
+word-created
+document-opened
+pages=23
+exported
+document-closed
+word-quit

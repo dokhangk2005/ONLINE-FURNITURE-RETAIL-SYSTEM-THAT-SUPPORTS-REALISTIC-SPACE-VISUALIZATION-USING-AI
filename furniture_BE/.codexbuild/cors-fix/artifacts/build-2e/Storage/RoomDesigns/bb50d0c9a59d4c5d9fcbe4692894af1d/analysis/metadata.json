@@ -1,0 +1,1 @@
+{"modelVersion":"depth-anything-v2-vits\u002Bsegformer-b0-ade20k","width":1920,"height":1272,"floorCoverage":0,"wallCoverage":0.00159,"depthMeaning":"0=far,1=near","depthInferenceMs":966,"segmentationInferenceMs":307,"processingMs":4049,"analyzedAt":"2026-08-08T07:57:16.0771288Z"}

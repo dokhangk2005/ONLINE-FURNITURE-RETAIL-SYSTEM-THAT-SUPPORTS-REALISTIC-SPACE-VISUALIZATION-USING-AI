@@ -1,0 +1,9 @@
+bin/
+obj/
+Storage/
+ai_service/.venv/
+ai_service/__pycache__/
+*.user
+# Local ONNX weights are downloaded by ai_service/download_models.py.
+ai_service/models/*.onnx
+ai_service/models/*.part

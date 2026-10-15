@@ -1,0 +1,3 @@
+Không có sai lệch cấu trúc so với bộ slide nguồn.
+Sai lệch có chủ đích theo yêu cầu người dùng: Arial -> Times New Roman; mọi hộp chữ tăng 2 đơn vị pixel của artifact-tool (xấp xỉ 1,5 pt trong PowerPoint).
+Không thêm hoặc xóa slide, không đổi thứ tự, không thay nội dung hay tài nguyên hình ảnh.

@@ -1,0 +1,3014 @@
+[
+  {
+    "id": "sh/547294r6",
+    "slide": 1,
+    "name": "text-1",
+    "textPreview": "BỘ GIÁO DỤC VÀ ĐÀO TẠO · TRƯỜNG ĐẠI HỌC NGOẠI NGỮ – TIN HỌC TP. HỒ CHÍ MINH | KHOA CÔNG NGHỆ THÔNG TIN",
+    "position": {
+      "left": 100,
+      "top": 28,
+      "width": 1080,
+      "height": 58
+    }
+  },
+  {
+    "id": "sh/k3yl0zql",
+    "slide": 1,
+    "name": "text-2",
+    "textPreview": "Hệ thống bán lẻ nội thất trực tuyến | hỗ trợ phối cảnh không gian thực bằng AI",
+    "position": {
+      "left": 105,
+      "top": 292,
+      "width": 1070,
+      "height": 126
+    }
+  },
+  {
+    "id": "sh/7qp4be9c",
+    "slide": 1,
+    "name": "text-3",
+    "textPreview": "BẢO VỆ ĐỒ ÁN KHÓA LUẬN TỐT NGHIỆP",
+    "position": {
+      "left": 220,
+      "top": 224,
+      "width": 840,
+      "height": 38
+    }
+  },
+  {
+    "id": "sh/65g3298r",
+    "slide": 1,
+    "name": "text-4",
+    "textPreview": "SINH VIÊN THỰC HIỆN | Đỗ Minh Vĩ Khang — 23DH114848 | Trần Ngọc Nhật Duy — 23DH110529",
+    "position": {
+      "left": 170,
+      "top": 492,
+      "width": 460,
+      "height": 112
+    }
+  },
+  {
+    "id": "sh/ts7md4r2",
+    "slide": 1,
+    "name": "text-5",
+    "textPreview": "GIẢNG VIÊN HƯỚNG DẪN | ThS. Lương Văn Minh | TP.HCM · 08/2026",
+    "position": {
+      "left": 715,
+      "top": 492,
+      "width": 395,
+      "height": 112
+    }
+  },
+  {
+    "id": "sh/s72xofmh",
+    "slide": 2,
+    "name": "text-6",
+    "textPreview": "BẢO VỆ KHÓA LUẬN",
+    "position": {
+      "left": 42,
+      "top": 30,
+      "width": 330,
+      "height": 24
+    }
+  },
+  {
+    "id": "sh/9072xkry",
+    "slide": 2,
+    "name": "text-7",
+    "textPreview": "Mạch trình bày đi từ bài toán đến minh chứng triển khai",
+    "position": {
+      "left": 42,
+      "top": 62,
+      "width": 1135,
+      "height": 76
+    }
+  },
+  {
+    "id": "sh/b29kza94",
+    "slide": 2,
+    "name": "text-9",
+    "textPreview": "02",
+    "position": {
+      "left": 1190,
+      "top": 669,
+      "width": 48,
+      "height": 20
+    }
+  },
+  {
+    "id": "sh/w3i1sfa9",
+    "slide": 2,
+    "name": "text-12",
+    "textPreview": "01",
+    "position": {
+      "left": 74,
+      "top": 252,
+      "width": 104,
+      "height": 38
+    }
+  },
+  {
+    "id": "sh/r65knqtk",
+    "slide": 2,
+    "name": "text-13",
+    "textPreview": "Bài toán & mục tiêu",
+    "position": {
+      "left": 56,
+      "top": 414,
+      "width": 140,
+      "height": 72
+    }
+  },
+  {
+    "id": "sh/ove9o7yd",
+    "slide": 2,
+    "name": "text-15",
+    "textPreview": "02",
+    "position": {
+      "left": 300,
+      "top": 252,
+      "width": 104,
+      "height": 38
+    }
+  },
+  {
+    "id": "sh/9wnqhczy",
+    "slide": 2,
+    "name": "text-16",
+    "textPreview": "Giải pháp & kiến trúc",
+    "position": {
+      "left": 282,
+      "top": 414,
+      "width": 140,
+      "height": 72
+    }
+  },
+  {
+    "id": "sh/nu58f2hs",
+    "slide": 2,
+    "name": "text-18",
+    "textPreview": "03",
+    "position": {
+      "left": 526,
+      "top": 252,
+      "width": 104,
+      "height": 38
+    }
+  },
+  {
+    "id": "sh/wjy9sry9",
+    "slide": 2,
+    "name": "text-19",
+    "textPreview": "AI & thuật toán",
+    "position": {
+      "left": 508,
+      "top": 414,
+      "width": 140,
+      "height": 72
+    }
+  },
+  {
+    "id": "sh/ahwrqhgj",
+    "slide": 2,
+    "name": "text-21",
+    "textPreview": "04",
+    "position": {
+      "left": 752,
+      "top": 252,
+      "width": 104,
+      "height": 38
+    }
+  },
+  {
+    "id": "sh/bip8jmho",
+    "slide": 2,
+    "name": "text-22",
+    "textPreview": "Kết quả & demo",
+    "position": {
+      "left": 734,
+      "top": 414,
+      "width": 140,
+      "height": 72
+    }
+  },
+  {
+    "id": "sh/do3q9szq",
+    "slide": 2,
+    "name": "text-24",
+    "textPreview": "05",
+    "position": {
+      "left": 978,
+      "top": 252,
+      "width": 104,
+      "height": 38
+    }
+  },
+  {
+    "id": "sh/t8byxkn2",
+    "slide": 2,
+    "name": "text-25",
+    "textPreview": "Hạn chế & hướng phát triển",
+    "position": {
+      "left": 960,
+      "top": 414,
+      "width": 140,
+      "height": 72
+    }
+  },
+  {
+    "id": "sh/ja54na9g",
+    "slide": 3,
+    "name": "text-26",
+    "textPreview": "BẢO VỆ KHÓA LUẬN",
+    "position": {
+      "left": 42,
+      "top": 30,
+      "width": 330,
+      "height": 24
+    }
+  },
+  {
+    "id": "sh/cza94vmx",
+    "slide": 3,
+    "name": "text-27",
+    "textPreview": "Mua nội thất trực tuyến khó ở cả quyết định lẫn vận hành",
+    "position": {
+      "left": 42,
+      "top": 62,
+      "width": 1135,
+      "height": 76
+    }
+  },
+  {
+    "id": "sh/298ryl4v",
+    "slide": 3,
+    "name": "text-29",
+    "textPreview": "03",
+    "position": {
+      "left": 1190,
+      "top": 669,
+      "width": 48,
+      "height": 20
+    }
+  },
+  {
+    "id": "sh/3ah8rqlg",
+    "slide": 3,
+    "name": "text-30",
+    "textPreview": "Khách hàng cần hình dung sản phẩm trong chính căn phòng; cửa hàng cần đồng bộ bán hàng, kho, thanh toán và giao nhận trên cùng một luồng ...",
+    "position": {
+      "left": 42,
+      "top": 178,
+      "width": 1170,
+      "height": 112
+    }
+  },
+  {
+    "id": "sh/pcjqtg36",
+    "slide": 3,
+    "name": "text-32",
+    "textPreview": "01",
+    "position": {
+      "left": 70,
+      "top": 378,
+      "width": 60,
+      "height": 34
+    }
+  },
+  {
+    "id": "sh/m5cra54z",
+    "slide": 3,
+    "name": "text-33",
+    "textPreview": "Khó hình dung",
+    "position": {
+      "left": 70,
+      "top": 434,
+      "width": 312,
+      "height": 42
+    }
+  },
+  {
+    "id": "sh/n6ls3alk",
+    "slide": 3,
+    "name": "text-34",
+    "textPreview": "Ảnh sản phẩm rời rạc chưa trả lời được câu hỏi: có hợp với không gian thật hay không?",
+    "position": {
+      "left": 70,
+      "top": 495,
+      "width": 312,
+      "height": 88
+    }
+  },
+  {
+    "id": "sh/m1c3mlsn",
+    "slide": 3,
+    "name": "text-36",
+    "textPreview": "02",
+    "position": {
+      "left": 480,
+      "top": 378,
+      "width": 60,
+      "height": 34
+    }
+  },
+  {
+    "id": "sh/943mhgre",
+    "slide": 3,
+    "name": "text-37",
+    "textPreview": "Quy trình phân mảnh",
+    "position": {
+      "left": 480,
+      "top": 434,
+      "width": 312,
+      "height": 42
+    }
+  },
+  {
+    "id": "sh/83ulovat",
+    "slide": 3,
+    "name": "text-38",
+    "textPreview": "Sản phẩm, tồn kho, đơn hàng và thanh toán dễ tách rời nếu thiếu một hệ thống trung tâm.",
+    "position": {
+      "left": 480,
+      "top": 495,
+      "width": 312,
+      "height": 88
+    }
+  },
+  {
+    "id": "sh/a5c3ql8z",
+    "slide": 3,
+    "name": "text-40",
+    "textPreview": "03",
+    "position": {
+      "left": 890,
+      "top": 378,
+      "width": 60,
+      "height": 34
+    }
+  },
+  {
+    "id": "sh/x8nml0ra",
+    "slide": 3,
+    "name": "text-41",
+    "textPreview": "Giao nhận phức tạp",
+    "position": {
+      "left": 890,
+      "top": 434,
+      "width": 312,
+      "height": 42
+    }
+  },
+  {
+    "id": "sh/w7ulsvqp",
+    "slide": 3,
+    "name": "text-42",
+    "textPreview": "Nội thất cồng kềnh cần phân công, lắp đặt, chứng từ và xử lý sự cố xuyên suốt.",
+    "position": {
+      "left": 890,
+      "top": 495,
+      "width": 312,
+      "height": 88
+    }
+  },
+  {
+    "id": "sh/gv29g7q5",
+    "slide": 4,
+    "name": "text-43",
+    "textPreview": "BẢO VỆ KHÓA LUẬN",
+    "position": {
+      "left": 42,
+      "top": 30,
+      "width": 330,
+      "height": 24
+    }
+  },
+  {
+    "id": "sh/1cj2d8b6",
+    "slide": 4,
+    "name": "text-44",
+    "textPreview": "Mục tiêu và phạm vi triển khai",
+    "position": {
+      "left": 42,
+      "top": 62,
+      "width": 1135,
+      "height": 76
+    }
+  },
+  {
+    "id": "sh/rm1k7yt4",
+    "slide": 4,
+    "name": "text-46",
+    "textPreview": "04",
+    "position": {
+      "left": 1190,
+      "top": 669,
+      "width": 48,
+      "height": 20
+    }
+  },
+  {
+    "id": "sh/doj29oba",
+    "slide": 4,
+    "name": "text-48",
+    "textPreview": "03",
+    "position": {
+      "left": 42,
+      "top": 234,
+      "width": 330,
+      "height": 62
+    }
+  },
+  {
+    "id": "sh/sna103ap",
+    "slide": 4,
+    "name": "text-49",
+    "textPreview": "vai trò sử dụng: Khách hàng, Admin, Shipper",
+    "position": {
+      "left": 42,
+      "top": 300,
+      "width": 330,
+      "height": 54
+    }
+  },
+  {
+    "id": "sh/ih8ju9sn",
+    "slide": 4,
+    "name": "text-51",
+    "textPreview": "01",
+    "position": {
+      "left": 456,
+      "top": 234,
+      "width": 330,
+      "height": 62
+    }
+  },
+  {
+    "id": "sh/kbm987y5",
+    "slide": 4,
+    "name": "text-52",
+    "textPreview": "quy trình dữ liệu xuyên suốt từ tìm kiếm đến giao hàng",
+    "position": {
+      "left": 456,
+      "top": 300,
+      "width": 330,
+      "height": 54
+    }
+  },
+  {
+    "id": "sh/i94r6xgz",
+    "slide": 4,
+    "name": "text-54",
+    "textPreview": "02",
+    "position": {
+      "left": 870,
+      "top": 234,
+      "width": 330,
+      "height": 62
+    }
+  },
+  {
+    "id": "sh/jadsz2xk",
+    "slide": 4,
+    "name": "text-55",
+    "textPreview": "chế độ phối cảnh: điều chỉnh thủ công và AI tạo ảnh",
+    "position": {
+      "left": 870,
+      "top": 300,
+      "width": 330,
+      "height": 54
+    }
+  },
+  {
+    "id": "sh/x8vaxsfe",
+    "slide": 4,
+    "name": "text-57",
+    "textPreview": "Trong phạm vi",
+    "position": {
+      "left": 42,
+      "top": 464,
+      "width": 340,
+      "height": 36
+    }
+  },
+  {
+    "id": "sh/v6tsv2xo",
+    "slide": 4,
+    "name": "text-59",
+    "textPreview": "Thương mại điện tử nội thất đầy đủ nghiệp vụ chính",
+    "position": {
+      "left": 66,
+      "top": 515,
+      "width": 496,
+      "height": 44
+    }
+  },
+  {
+    "id": "sh/h4fa9wfy",
+    "slide": 4,
+    "name": "text-61",
+    "textPreview": "Đề xuất sản phẩm và phối cảnh trên ảnh phòng thật",
+    "position": {
+      "left": 66,
+      "top": 569,
+      "width": 496,
+      "height": 44
+    }
+  },
+  {
+    "id": "sh/p0batw72",
+    "slide": 4,
+    "name": "text-62",
+    "textPreview": "Ngoài phạm vi",
+    "position": {
+      "left": 670,
+      "top": 464,
+      "width": 340,
+      "height": 36
+    }
+  },
+  {
+    "id": "sh/3ytsrmpw",
+    "slide": 4,
+    "name": "text-64",
+    "textPreview": "Huấn luyện mô hình AI chuyên biệt từ đầu",
+    "position": {
+      "left": 694,
+      "top": 515,
+      "width": 496,
+      "height": 44
+    }
+  },
+  {
+    "id": "sh/1wbapc7q",
+    "slide": 4,
+    "name": "text-66",
+    "textPreview": "Tối ưu hạ tầng cho quy mô người dùng rất lớn",
+    "position": {
+      "left": 694,
+      "top": 569,
+      "width": 496,
+      "height": 44
+    }
+  },
+  {
+    "id": "sh/fe94nm1w",
+    "slide": 5,
+    "name": "text-67",
+    "textPreview": "BẢO VỆ KHÓA LUẬN",
+    "position": {
+      "left": 42,
+      "top": 30,
+      "width": 330,
+      "height": 24
+    }
+  },
+  {
+    "id": "sh/dgbulwnm",
+    "slide": 5,
+    "name": "text-68",
+    "textPreview": "Một nền tảng kết nối ba vai trò quanh cùng đơn hàng",
+    "position": {
+      "left": 42,
+      "top": 62,
+      "width": 1135,
+      "height": 76
+    }
+  },
+  {
+    "id": "sh/z2tcnm5s",
+    "slide": 5,
+    "name": "text-70",
+    "textPreview": "05",
+    "position": {
+      "left": 1190,
+      "top": 669,
+      "width": 48,
+      "height": 20
+    }
+  },
+  {
+    "id": "sh/n6dcr65o",
+    "slide": 5,
+    "name": "text-74",
+    "textPreview": "1",
+    "position": {
+      "left": 74,
+      "top": 254,
+      "width": 54,
+      "height": 34
+    }
+  },
+  {
+    "id": "sh/m5kbi1oj",
+    "slide": 5,
+    "name": "text-75",
+    "textPreview": "KHÁCH HÀNG",
+    "position": {
+      "left": 74,
+      "top": 326,
+      "width": 300,
+      "height": 32
+    }
+  },
+  {
+    "id": "sh/w32dkbuh",
+    "slide": 5,
+    "name": "text-76",
+    "textPreview": "Khám phá • chọn biến thể | Giỏ hàng • VNPay • đánh giá | Trợ lý AI • thiết kế phòng",
+    "position": {
+      "left": 74,
+      "top": 390,
+      "width": 300,
+      "height": 110
+    }
+  },
+  {
+    "id": "sh/v2twb6dw",
+    "slide": 5,
+    "name": "text-79",
+    "textPreview": "2",
+    "position": {
+      "left": 486,
+      "top": 254,
+      "width": 54,
+      "height": 34
+    }
+  },
+  {
+    "id": "sh/k7mxovud",
+    "slide": 5,
+    "name": "text-80",
+    "textPreview": "QUẢN TRỊ VIÊN",
+    "position": {
+      "left": 486,
+      "top": 326,
+      "width": 300,
+      "height": 32
+    }
+  },
+  {
+    "id": "sh/58vehgvy",
+    "slide": 5,
+    "name": "text-81",
+    "textPreview": "Sản phẩm • tồn kho • voucher | Đơn hàng • doanh thu • hỗ trợ | Đề xuất • điều phối giao hàng",
+    "position": {
+      "left": 486,
+      "top": 390,
+      "width": 300,
+      "height": 110
+    }
+  },
+  {
+    "id": "sh/sb6xsvu9",
+    "slide": 5,
+    "name": "text-84",
+    "textPreview": "3",
+    "position": {
+      "left": 898,
+      "top": 254,
+      "width": 54,
+      "height": 34
+    }
+  },
+  {
+    "id": "sh/tcfel0vu",
+    "slide": 5,
+    "name": "text-85",
+    "textPreview": "NHÂN VIÊN GIAO HÀNG",
+    "position": {
+      "left": 898,
+      "top": 326,
+      "width": 300,
+      "height": 32
+    }
+  },
+  {
+    "id": "sh/hgrmpwj2",
+    "slide": 5,
+    "name": "text-86",
+    "textPreview": "Trạng thái ca làm | Nhận đơn • cập nhật kết quả | Bằng chứng • sự cố • hẹn lại",
+    "position": {
+      "left": 898,
+      "top": 390,
+      "width": 300,
+      "height": 110
+    }
+  },
+  {
+    "id": "sh/gfi5grih",
+    "slide": 5,
+    "name": "text-87",
+    "textPreview": "Trạng thái đơn hàng là điểm nối giữa trải nghiệm mua sắm và vận hành cửa hàng.",
+    "position": {
+      "left": 145,
+      "top": 594,
+      "width": 990,
+      "height": 42
+    }
+  },
+  {
+    "id": "sh/jet8nm1c",
+    "slide": 6,
+    "name": "text-88",
+    "textPreview": "BẢO VỆ KHÓA LUẬN",
+    "position": {
+      "left": 42,
+      "top": 30,
+      "width": 330,
+      "height": 24
+    }
+  },
+  {
+    "id": "sh/yhg7epsj",
+    "slide": 6,
+    "name": "text-89",
+    "textPreview": "Hành trình khách hàng: từ khám phá đến hậu mãi",
+    "position": {
+      "left": 42,
+      "top": 62,
+      "width": 1135,
+      "height": 76
+    }
+  },
+  {
+    "id": "sh/87ipkzal",
+    "slide": 6,
+    "name": "text-91",
+    "textPreview": "06",
+    "position": {
+      "left": 1190,
+      "top": 669,
+      "width": 48,
+      "height": 20
+    }
+  },
+  {
+    "id": "sh/h4bupgn6",
+    "slide": 6,
+    "name": "text-97",
+    "textPreview": "01",
+    "position": {
+      "left": 64,
+      "top": 270,
+      "width": 50,
+      "height": 32
+    }
+  },
+  {
+    "id": "sh/w32twb6l",
+    "slide": 6,
+    "name": "text-98",
+    "textPreview": "Tìm kiếm",
+    "position": {
+      "left": 64,
+      "top": 321,
+      "width": 144,
+      "height": 32
+    }
+  },
+  {
+    "id": "sh/v2tcn650",
+    "slide": 6,
+    "name": "text-99",
+    "textPreview": "Autocomplete, lọc theo danh mục, màu, kích thước, giá",
+    "position": {
+      "left": 64,
+      "top": 382,
+      "width": 144,
+      "height": 82
+    }
+  },
+  {
+    "id": "sh/5svutgni",
+    "slide": 6,
+    "name": "text-101",
+    "textPreview": "02",
+    "position": {
+      "left": 299,
+      "top": 270,
+      "width": 50,
+      "height": 32
+    }
+  },
+  {
+    "id": "sh/47mt0b6x",
+    "slide": 6,
+    "name": "text-102",
+    "textPreview": "Đánh giá",
+    "position": {
+      "left": 299,
+      "top": 321,
+      "width": 144,
+      "height": 32
+    }
+  },
+  {
+    "id": "sh/j6dcr65c",
+    "slide": 6,
+    "name": "text-103",
+    "textPreview": "Biến thể, tồn kho, đánh giá và sản phẩm gợi ý",
+    "position": {
+      "left": 299,
+      "top": 382,
+      "width": 144,
+      "height": 82
+    }
+  },
+  {
+    "id": "sh/twfux0ne",
+    "slide": 6,
+    "name": "text-105",
+    "textPreview": "03",
+    "position": {
+      "left": 534,
+      "top": 270,
+      "width": 50,
+      "height": 32
+    }
+  },
+  {
+    "id": "sh/svmt4v6t",
+    "slide": 6,
+    "name": "text-106",
+    "textPreview": "Quyết định",
+    "position": {
+      "left": 534,
+      "top": 321,
+      "width": 144,
+      "height": 32
+    }
+  },
+  {
+    "id": "sh/cbe5g3ih",
+    "slide": 6,
+    "name": "text-107",
+    "textPreview": "Phối cảnh phòng, trợ lý AI, giỏ hàng và voucher",
+    "position": {
+      "left": 534,
+      "top": 382,
+      "width": 144,
+      "height": 82
+    }
+  },
+  {
+    "id": "sh/qpwnet0b",
+    "slide": 6,
+    "name": "text-109",
+    "textPreview": "04",
+    "position": {
+      "left": 769,
+      "top": 270,
+      "width": 50,
+      "height": 32
+    }
+  },
+  {
+    "id": "sh/bq547yhw",
+    "slide": 6,
+    "name": "text-110",
+    "textPreview": "Thanh toán",
+    "position": {
+      "left": 769,
+      "top": 321,
+      "width": 144,
+      "height": 32
+    }
+  },
+  {
+    "id": "sh/0fy5k3id",
+    "slide": 6,
+    "name": "text-111",
+    "textPreview": "Mapbox chuẩn hóa địa chỉ, VNPay hoặc COD",
+    "position": {
+      "left": 769,
+      "top": 382,
+      "width": 144,
+      "height": 82
+    }
+  },
+  {
+    "id": "sh/ydgnit07",
+    "slide": 6,
+    "name": "text-113",
+    "textPreview": "05",
+    "position": {
+      "left": 1004,
+      "top": 270,
+      "width": 50,
+      "height": 32
+    }
+  },
+  {
+    "id": "sh/zep4byhs",
+    "slide": 6,
+    "name": "text-114",
+    "textPreview": "Theo dõi",
+    "position": {
+      "left": 1004,
+      "top": 321,
+      "width": 144,
+      "height": 32
+    }
+  },
+  {
+    "id": "sh/gju58ji9",
+    "slide": 6,
+    "name": "text-115",
+    "textPreview": "Trạng thái đơn, đánh giá và hỗ trợ sau mua",
+    "position": {
+      "left": 1004,
+      "top": 382,
+      "width": 144,
+      "height": 82
+    }
+  },
+  {
+    "id": "sh/1k3mhozu",
+    "slide": 6,
+    "name": "text-116",
+    "textPreview": "Mỗi bước đều được ánh xạ thành API và trạng thái dữ liệu có thể tiếp tục ở bước kế tiếp.",
+    "position": {
+      "left": 170,
+      "top": 560,
+      "width": 940,
+      "height": 40
+    }
+  },
+  {
+    "id": "sh/q143ylov",
+    "slide": 7,
+    "name": "text-117",
+    "textPreview": "BẢO VỆ KHÓA LUẬN",
+    "position": {
+      "left": 42,
+      "top": 30,
+      "width": 330,
+      "height": 24
+    }
+  },
+  {
+    "id": "sh/cb2tkvap",
+    "slide": 7,
+    "name": "text-118",
+    "textPreview": "Kiến trúc tách tương tác, nghiệp vụ, AI và dữ liệu",
+    "position": {
+      "left": 42,
+      "top": 62,
+      "width": 1135,
+      "height": 76
+    }
+  },
+  {
+    "id": "sh/ydkbm5sv",
+    "slide": 7,
+    "name": "text-120",
+    "textPreview": "07",
+    "position": {
+      "left": 1190,
+      "top": 669,
+      "width": 48,
+      "height": 20
+    }
+  },
+  {
+    "id": "sh/baxkjqlk",
+    "slide": 7,
+    "name": "text-126",
+    "textPreview": "FLUTTER CLIENT",
+    "position": {
+      "left": 66,
+      "top": 258,
+      "width": 242,
+      "height": 34
+    }
+  },
+  {
+    "id": "sh/a9ojq5kz",
+    "slide": 7,
+    "name": "text-127",
+    "textPreview": "Giao diện responsive | Quản lý trạng thái | HTTP + SignalR",
+    "position": {
+      "left": 66,
+      "top": 318,
+      "width": 242,
+      "height": 116
+    }
+  },
+  {
+    "id": "sh/cbq1sv25",
+    "slide": 7,
+    "name": "text-129",
+    "textPreview": "ASP.NET CORE",
+    "position": {
+      "left": 426,
+      "top": 258,
+      "width": 202,
+      "height": 34
+    }
+  },
+  {
+    "id": "sh/n6x0fqlo",
+    "slide": 7,
+    "name": "text-130",
+    "textPreview": "116 endpoint | JWT + phân quyền | Nghiệp vụ trung tâm",
+    "position": {
+      "left": 426,
+      "top": 318,
+      "width": 202,
+      "height": 116
+    }
+  },
+  {
+    "id": "sh/p8fih03e",
+    "slide": 7,
+    "name": "text-132",
+    "textPreview": "ENTITY FRAMEWORK",
+    "position": {
+      "left": 751,
+      "top": 258,
+      "width": 187,
+      "height": 34
+    }
+  },
+  {
+    "id": "sh/o761ov2t",
+    "slide": 7,
+    "name": "text-133",
+    "textPreview": "19 thực thể | Transaction | SQL Server",
+    "position": {
+      "left": 751,
+      "top": 318,
+      "width": 187,
+      "height": 116
+    }
+  },
+  {
+    "id": "sh/eh4jil4r",
+    "slide": 7,
+    "name": "text-135",
+    "textPreview": "DỊCH VỤ NGOÀI",
+    "position": {
+      "left": 1058,
+      "top": 258,
+      "width": 156,
+      "height": 34
+    }
+  },
+  {
+    "id": "sh/id4ju1oz",
+    "slide": 7,
+    "name": "text-136",
+    "textPreview": "VNPay • Mapbox | Gmail SMTP | OpenAI • Gemini",
+    "position": {
+      "left": 1058,
+      "top": 318,
+      "width": 156,
+      "height": 116
+    }
+  },
+  {
+    "id": "sh/4fm1wb6p",
+    "slide": 7,
+    "name": "text-138",
+    "textPreview": "FASTAPI AI",
+    "position": {
+      "left": 426,
+      "top": 560,
+      "width": 202,
+      "height": 34
+    }
+  },
+  {
+    "id": "sh/50v2pgna",
+    "slide": 7,
+    "name": "text-139",
+    "textPreview": "ONNX Runtime • xử lý ảnh",
+    "position": {
+      "left": 426,
+      "top": 600,
+      "width": 202,
+      "height": 36
+    }
+  },
+  {
+    "id": "sh/lgbepgvm",
+    "slide": 8,
+    "name": "text-140",
+    "textPreview": "BẢO VỆ KHÓA LUẬN",
+    "position": {
+      "left": 42,
+      "top": 30,
+      "width": 330,
+      "height": 24
+    }
+  },
+  {
+    "id": "sh/18byd4zy",
+    "slide": 8,
+    "name": "text-141",
+    "textPreview": "Mỗi công nghệ đảm nhiệm đúng loại tải công việc",
+    "position": {
+      "left": 42,
+      "top": 62,
+      "width": 1135,
+      "height": 76
+    }
+  },
+  {
+    "id": "sh/ri9g7uhw",
+    "slide": 8,
+    "name": "text-143",
+    "textPreview": "08",
+    "position": {
+      "left": 1190,
+      "top": 669,
+      "width": 48,
+      "height": 20
+    }
+  },
+  {
+    "id": "sh/tkby9kzm",
+    "slide": 8,
+    "name": "text-145",
+    "textPreview": "Flutter",
+    "position": {
+      "left": 42,
+      "top": 262,
+      "width": 260,
+      "height": 42
+    }
+  },
+  {
+    "id": "sh/sjix0zy1",
+    "slide": 8,
+    "name": "text-146",
+    "textPreview": "Một codebase cho web và các nền tảng; giao diện responsive và giàu tương tác.",
+    "position": {
+      "left": 42,
+      "top": 337,
+      "width": 260,
+      "height": 138
+    }
+  },
+  {
+    "id": "sh/id0fu50z",
+    "slide": 8,
+    "name": "text-148",
+    "textPreview": "ASP.NET Core",
+    "position": {
+      "left": 346,
+      "top": 262,
+      "width": 260,
+      "height": 42
+    }
+  },
+  {
+    "id": "sh/o7ydoret",
+    "slide": 8,
+    "name": "text-149",
+    "textPreview": "API phân quyền, transaction nghiệp vụ và tích hợp dịch vụ bên thứ ba.",
+    "position": {
+      "left": 346,
+      "top": 337,
+      "width": 260,
+      "height": 138
+    }
+  },
+  {
+    "id": "sh/m5gvmhwn",
+    "slide": 8,
+    "name": "text-151",
+    "textPreview": "SQL Server",
+    "position": {
+      "left": 650,
+      "top": 262,
+      "width": 260,
+      "height": 42
+    }
+  },
+  {
+    "id": "sh/n6pwfmd8",
+    "slide": 8,
+    "name": "text-152",
+    "textPreview": "Quan hệ dữ liệu chặt chẽ cho sản phẩm, đơn hàng, thanh toán và giao nhận.",
+    "position": {
+      "left": 650,
+      "top": 337,
+      "width": 260,
+      "height": 138
+    }
+  },
+  {
+    "id": "sh/1k7edwv2",
+    "slide": 8,
+    "name": "text-154",
+    "textPreview": "FastAPI + ONNX",
+    "position": {
+      "left": 954,
+      "top": 262,
+      "width": 260,
+      "height": 42
+    }
+  },
+  {
+    "id": "sh/ehgvihwr",
+    "slide": 8,
+    "name": "text-155",
+    "textPreview": "Tách các tác vụ xóa nền, phân vùng và ước lượng chiều sâu có thời gian xử lý dài.",
+    "position": {
+      "left": 954,
+      "top": 337,
+      "width": 260,
+      "height": 138
+    }
+  },
+  {
+    "id": "sh/kfixwbe1",
+    "slide": 8,
+    "name": "text-157",
+    "textPreview": "Nguyên tắc thiết kế: client hiển thị — backend quyết định nghiệp vụ — dịch vụ AI xử lý ảnh — SQL Server bảo toàn dữ liệu.",
+    "position": {
+      "left": 72,
+      "top": 557,
+      "width": 1136,
+      "height": 40
+    }
+  },
+  {
+    "id": "sh/0ru1ozyp",
+    "slide": 9,
+    "name": "text-158",
+    "textPreview": "BẢO VỆ KHÓA LUẬN",
+    "position": {
+      "left": 42,
+      "top": 30,
+      "width": 330,
+      "height": 24
+    }
+  },
+  {
+    "id": "sh/1cfmhgne",
+    "slide": 9,
+    "name": "text-159",
+    "textPreview": "Ba lớp trạng thái bảo toàn vòng đời đơn hàng",
+    "position": {
+      "left": 42,
+      "top": 62,
+      "width": 1135,
+      "height": 76
+    }
+  },
+  {
+    "id": "sh/nex4jq5k",
+    "slide": 9,
+    "name": "text-161",
+    "textPreview": "09",
+    "position": {
+      "left": 1190,
+      "top": 669,
+      "width": 48,
+      "height": 20
+    }
+  },
+  {
+    "id": "sh/9gzml0nq",
+    "slide": 9,
+    "name": "text-163",
+    "textPreview": "01 — TẠO ĐƠN",
+    "position": {
+      "left": 42,
+      "top": 266,
+      "width": 320,
+      "height": 30
+    }
+  },
+  {
+    "id": "sh/bih4na5w",
+    "slide": 9,
+    "name": "text-165",
+    "textPreview": "Kiểm tra tồn kho",
+    "position": {
+      "left": 42,
+      "top": 408,
+      "width": 330,
+      "height": 36
+    }
+  },
+  {
+    "id": "sh/ah8nu54b",
+    "slide": 9,
+    "name": "text-166",
+    "textPreview": "Áp dụng voucher, phí giao hàng; transaction hoàn tác khi có lỗi.",
+    "position": {
+      "left": 42,
+      "top": 467,
+      "width": 330,
+      "height": 92
+    }
+  },
+  {
+    "id": "sh/oza1gfyh",
+    "slide": 9,
+    "name": "text-167",
+    "textPreview": "02 — THANH TOÁN",
+    "position": {
+      "left": 452,
+      "top": 266,
+      "width": 320,
+      "height": 30
+    }
+  },
+  {
+    "id": "sh/2xsjepgb",
+    "slide": 9,
+    "name": "text-169",
+    "textPreview": "Xác minh kết quả",
+    "position": {
+      "left": 452,
+      "top": 408,
+      "width": 330,
+      "height": 36
+    }
+  },
+  {
+    "id": "sh/3y107axw",
+    "slide": 9,
+    "name": "text-170",
+    "textPreview": "VNPay được kiểm tra chữ ký, mã giao dịch và trạng thái trước khi ghi nhận.",
+    "position": {
+      "left": 452,
+      "top": 467,
+      "width": 330,
+      "height": 92
+    }
+  },
+  {
+    "id": "sh/cnu1kzyd",
+    "slide": 9,
+    "name": "text-171",
+    "textPreview": "03 — GIAO NHẬN",
+    "position": {
+      "left": 862,
+      "top": 266,
+      "width": 320,
+      "height": 30
+    }
+  },
+  {
+    "id": "sh/qlcjipgn",
+    "slide": 9,
+    "name": "text-173",
+    "textPreview": "Đóng vòng trạng thái",
+    "position": {
+      "left": 862,
+      "top": 408,
+      "width": 330,
+      "height": 36
+    }
+  },
+  {
+    "id": "sh/bml0buxs",
+    "slide": 9,
+    "name": "text-174",
+    "textPreview": "Phân công shipper, bằng chứng giao hàng, thu hộ, sự cố và hẹn lại.",
+    "position": {
+      "left": 862,
+      "top": 467,
+      "width": 330,
+      "height": 92
+    }
+  },
+  {
+    "id": "sh/0bit8b2d",
+    "slide": 10,
+    "name": "text-175",
+    "textPreview": "BẢO VỆ KHÓA LUẬN",
+    "position": {
+      "left": 42,
+      "top": 30,
+      "width": 330,
+      "height": 24
+    }
+  },
+  {
+    "id": "sh/xc3mho32",
+    "slide": 10,
+    "name": "text-176",
+    "textPreview": "Hai cơ chế gợi ý bổ sung cho nhau",
+    "position": {
+      "left": 42,
+      "top": 62,
+      "width": 1135,
+      "height": 76
+    }
+  },
+  {
+    "id": "sh/zelojyl8",
+    "slide": 10,
+    "name": "text-178",
+    "textPreview": "10",
+    "position": {
+      "left": 1190,
+      "top": 669,
+      "width": 48,
+      "height": 20
+    }
+  },
+  {
+    "id": "sh/ydcnatkn",
+    "slide": 10,
+    "name": "text-179",
+    "textPreview": "Apriori",
+    "position": {
+      "left": 42,
+      "top": 210,
+      "width": 220,
+      "height": 42
+    }
+  },
+  {
+    "id": "sh/l036l83y",
+    "slide": 10,
+    "name": "text-180",
+    "textPreview": "Tìm sản phẩm thường xuất hiện cùng trong các đơn hợp lệ hoặc đã thanh toán.",
+    "position": {
+      "left": 42,
+      "top": 264,
+      "width": 430,
+      "height": 74
+    }
+  },
+  {
+    "id": "sh/kzu5c32t",
+    "slide": 10,
+    "name": "text-181",
+    "textPreview": "Support",
+    "position": {
+      "left": 42,
+      "top": 367,
+      "width": 150,
+      "height": 30
+    }
+  },
+  {
+    "id": "sh/725onyl4",
+    "slide": 10,
+    "name": "text-182",
+    "textPreview": "mức độ phổ biến của cặp sản phẩm",
+    "position": {
+      "left": 190,
+      "top": 367,
+      "width": 280,
+      "height": 30
+    }
+  },
+  {
+    "id": "sh/m1cnetkj",
+    "slide": 10,
+    "name": "text-183",
+    "textPreview": "Confidence",
+    "position": {
+      "left": 42,
+      "top": 420,
+      "width": 150,
+      "height": 30
+    }
+  },
+  {
+    "id": "sh/s7yt4b21",
+    "slide": 10,
+    "name": "text-184",
+    "textPreview": "xác suất mua B khi đã mua A",
+    "position": {
+      "left": 190,
+      "top": 420,
+      "width": 280,
+      "height": 30
+    }
+  },
+  {
+    "id": "sh/d87uxg3m",
+    "slide": 10,
+    "name": "text-185",
+    "textPreview": "Content-based",
+    "position": {
+      "left": 42,
+      "top": 494,
+      "width": 220,
+      "height": 32
+    }
+  },
+  {
+    "id": "sh/q5gb21kb",
+    "slide": 10,
+    "name": "text-186",
+    "textPreview": "So khớp danh mục, màu sắc, kích thước và mức giá để vẫn có kết quả khi dữ liệu giao dịch còn ít.",
+    "position": {
+      "left": 42,
+      "top": 536,
+      "width": 430,
+      "height": 78
+    }
+  },
+  {
+    "id": "sh/98jedc3u",
+    "slide": 11,
+    "name": "text-187",
+    "textPreview": "BẢO VỆ KHÓA LUẬN",
+    "position": {
+      "left": 42,
+      "top": 30,
+      "width": 330,
+      "height": 24
+    }
+  },
+  {
+    "id": "sh/xcryxg7y",
+    "slide": 11,
+    "name": "text-188",
+    "textPreview": "Pipeline phối cảnh AI gồm sáu bước",
+    "position": {
+      "left": 42,
+      "top": 62,
+      "width": 1135,
+      "height": 76
+    }
+  },
+  {
+    "id": "sh/n69grmpw",
+    "slide": 11,
+    "name": "text-190",
+    "textPreview": "11",
+    "position": {
+      "left": 1190,
+      "top": 669,
+      "width": 48,
+      "height": 20
+    }
+  },
+  {
+    "id": "sh/ofqtgnyt",
+    "slide": 11,
+    "name": "text-196",
+    "textPreview": "01",
+    "position": {
+      "left": 66,
+      "top": 230,
+      "width": 52,
+      "height": 30
+    }
+  },
+  {
+    "id": "sh/9gza9sze",
+    "slide": 11,
+    "name": "text-197",
+    "textPreview": "Xóa nền",
+    "position": {
+      "left": 66,
+      "top": 272,
+      "width": 280,
+      "height": 34
+    }
+  },
+  {
+    "id": "sh/mdobedg3",
+    "slide": 11,
+    "name": "text-198",
+    "textPreview": "U2NetP / rembg",
+    "position": {
+      "left": 66,
+      "top": 316,
+      "width": 280,
+      "height": 28
+    }
+  },
+  {
+    "id": "sh/0b6tc3yx",
+    "slide": 11,
+    "name": "text-200",
+    "textPreview": "02",
+    "position": {
+      "left": 476,
+      "top": 230,
+      "width": 52,
+      "height": 30
+    }
+  },
+  {
+    "id": "sh/1cfa58zi",
+    "slide": 11,
+    "name": "text-201",
+    "textPreview": "Phân vùng",
+    "position": {
+      "left": 476,
+      "top": 272,
+      "width": 280,
+      "height": 34
+    }
+  },
+  {
+    "id": "sh/epobatgr",
+    "slide": 11,
+    "name": "text-202",
+    "textPreview": "SegFormer: sàn / tường",
+    "position": {
+      "left": 476,
+      "top": 316,
+      "width": 280,
+      "height": 28
+    }
+  },
+  {
+    "id": "sh/cn6t83y1",
+    "slide": 11,
+    "name": "text-204",
+    "textPreview": "03",
+    "position": {
+      "left": 886,
+      "top": 230,
+      "width": 52,
+      "height": 30
+    }
+  },
+  {
+    "id": "sh/dofa18z6",
+    "slide": 11,
+    "name": "text-205",
+    "textPreview": "Chiều sâu",
+    "position": {
+      "left": 886,
+      "top": 272,
+      "width": 280,
+      "height": 34
+    }
+  },
+  {
+    "id": "sh/tsnip0ny",
+    "slide": 11,
+    "name": "text-206",
+    "textPreview": "Depth Anything V2",
+    "position": {
+      "left": 886,
+      "top": 316,
+      "width": 280,
+      "height": 28
+    }
+  },
+  {
+    "id": "sh/7650nq5s",
+    "slide": 11,
+    "name": "text-208",
+    "textPreview": "04",
+    "position": {
+      "left": 66,
+      "top": 462,
+      "width": 52,
+      "height": 30
+    }
+  },
+  {
+    "id": "sh/65wzelo7",
+    "slide": 11,
+    "name": "text-209",
+    "textPreview": "Đặt vật thể",
+    "position": {
+      "left": 66,
+      "top": 504,
+      "width": 280,
+      "height": 34
+    }
+  },
+  {
+    "id": "sh/l43ilgn2",
+    "slide": 11,
+    "name": "text-210",
+    "textPreview": "Mặt phẳng + tỷ lệ gần xa",
+    "position": {
+      "left": 66,
+      "top": 548,
+      "width": 280,
+      "height": 28
+    }
+  },
+  {
+    "id": "sh/j2lgjq5w",
+    "slide": 11,
+    "name": "text-212",
+    "textPreview": "05",
+    "position": {
+      "left": 476,
+      "top": 462,
+      "width": 52,
+      "height": 30
+    }
+  },
+  {
+    "id": "sh/y1czalob",
+    "slide": 11,
+    "name": "text-213",
+    "textPreview": "Hòa cảnh",
+    "position": {
+      "left": 476,
+      "top": 504,
+      "width": 280,
+      "height": 34
+    }
+  },
+  {
+    "id": "sh/p07ixkn6",
+    "slide": 11,
+    "name": "text-214",
+    "textPreview": "Ánh sáng, bóng, phối cảnh",
+    "position": {
+      "left": 476,
+      "top": 548,
+      "width": 280,
+      "height": 28
+    }
+  },
+  {
+    "id": "sh/m58fih43",
+    "slide": 11,
+    "name": "text-216",
+    "textPreview": "06",
+    "position": {
+      "left": 886,
+      "top": 462,
+      "width": 52,
+      "height": 30
+    }
+  },
+  {
+    "id": "sh/n61wbmlo",
+    "slide": 11,
+    "name": "text-217",
+    "textPreview": "Che khuất",
+    "position": {
+      "left": 886,
+      "top": 504,
+      "width": 280,
+      "height": 34
+    }
+  },
+  {
+    "id": "sh/o7axk7m9",
+    "slide": 11,
+    "name": "text-218",
+    "textPreview": "Foreground + mask chỉnh sửa",
+    "position": {
+      "left": 886,
+      "top": 548,
+      "width": 280,
+      "height": 28
+    }
+  },
+  {
+    "id": "sh/9sj65kn2",
+    "slide": 12,
+    "name": "text-219",
+    "textPreview": "BẢO VỆ KHÓA LUẬN",
+    "position": {
+      "left": 42,
+      "top": 30,
+      "width": 330,
+      "height": 24
+    }
+  },
+  {
+    "id": "sh/1gbm9s3a",
+    "slide": 12,
+    "name": "text-220",
+    "textPreview": "Người dùng kiểm soát, AI tăng độ chân thực",
+    "position": {
+      "left": 42,
+      "top": 62,
+      "width": 1135,
+      "height": 76
+    }
+  },
+  {
+    "id": "sh/ra943il8",
+    "slide": 12,
+    "name": "text-222",
+    "textPreview": "12",
+    "position": {
+      "left": 1190,
+      "top": 669,
+      "width": 48,
+      "height": 20
+    }
+  },
+  {
+    "id": "sh/dcbm583y",
+    "slide": 12,
+    "name": "text-223",
+    "textPreview": "Hai chế độ bổ trợ",
+    "position": {
+      "left": 900,
+      "top": 212,
+      "width": 300,
+      "height": 38
+    }
+  },
+  {
+    "id": "sh/b6d4f2lc",
+    "slide": 12,
+    "name": "text-225",
+    "textPreview": "Tự điều chỉnh: vị trí, kích thước, xoay, độ sáng và bóng",
+    "position": {
+      "left": 924,
+      "top": 286,
+      "width": 286,
+      "height": 76
+    }
+  },
+  {
+    "id": "sh/wvupgz6t",
+    "slide": 12,
+    "name": "text-227",
+    "textPreview": "AI tạo ảnh: OpenAI hoặc Gemini hòa sản phẩm vào căn phòng",
+    "position": {
+      "left": 924,
+      "top": 374,
+      "width": 286,
+      "height": 76
+    }
+  },
+  {
+    "id": "sh/atc7epon",
+    "slide": 12,
+    "name": "text-229",
+    "textPreview": "Lưu thiết kế, tải lại và xuất ảnh kết quả",
+    "position": {
+      "left": 924,
+      "top": 462,
+      "width": 286,
+      "height": 76
+    }
+  },
+  {
+    "id": "sh/orapcf6h",
+    "slide": 12,
+    "name": "text-231",
+    "textPreview": "AI là phương án tham khảo; người dùng vẫn có thể hiệu chỉnh khi nhận diện chưa chính xác.",
+    "position": {
+      "left": 920,
+      "top": 552,
+      "width": 270,
+      "height": 76
+    }
+  },
+  {
+    "id": "sh/ipcjmtw7",
+    "slide": 13,
+    "name": "text-232",
+    "textPreview": "BẢO VỆ KHÓA LUẬN",
+    "position": {
+      "left": 42,
+      "top": 30,
+      "width": 330,
+      "height": 24
+    }
+  },
+  {
+    "id": "sh/q50nydsj",
+    "slide": 13,
+    "name": "text-233",
+    "textPreview": "Bảo mật và toàn vẹn được thiết kế xuyên suốt",
+    "position": {
+      "left": 42,
+      "top": 62,
+      "width": 1135,
+      "height": 76
+    }
+  },
+  {
+    "id": "sh/o3i5w3ad",
+    "slide": 13,
+    "name": "text-235",
+    "textPreview": "13",
+    "position": {
+      "left": 1190,
+      "top": 669,
+      "width": 48,
+      "height": 20
+    }
+  },
+  {
+    "id": "sh/21gnuts7",
+    "slide": 13,
+    "name": "text-237",
+    "textPreview": "XÁC THỰC & PHÂN QUYỀN",
+    "position": {
+      "left": 42,
+      "top": 252,
+      "width": 370,
+      "height": 36
+    }
+  },
+  {
+    "id": "sh/gzy5s3a1",
+    "slide": 13,
+    "name": "text-239",
+    "textPreview": "JWT có thời hạn",
+    "position": {
+      "left": 66,
+      "top": 330,
+      "width": 336,
+      "height": 54
+    }
+  },
+  {
+    "id": "sh/hcfy9k3u",
+    "slide": 13,
+    "name": "text-241",
+    "textPreview": "BCrypt cho mật khẩu",
+    "position": {
+      "left": 66,
+      "top": 405,
+      "width": 336,
+      "height": 54
+    }
+  },
+  {
+    "id": "sh/vaxg7ulo",
+    "slide": 13,
+    "name": "text-243",
+    "textPreview": "Customer • Admin • Shipper",
+    "position": {
+      "left": 66,
+      "top": 480,
+      "width": 336,
+      "height": 54
+    }
+  },
+  {
+    "id": "sh/t8fy5k3i",
+    "slide": 13,
+    "name": "text-245",
+    "textPreview": "TOÀN VẸN GIAO DỊCH",
+    "position": {
+      "left": 452,
+      "top": 252,
+      "width": 370,
+      "height": 36
+    }
+  },
+  {
+    "id": "sh/7mdg3als",
+    "slide": 13,
+    "name": "text-247",
+    "textPreview": "Transaction khi tạo đơn",
+    "position": {
+      "left": 476,
+      "top": 330,
+      "width": 336,
+      "height": 54
+    }
+  },
+  {
+    "id": "sh/lkvy103m",
+    "slide": 13,
+    "name": "text-249",
+    "textPreview": "Xác minh chữ ký VNPay",
+    "position": {
+      "left": 476,
+      "top": 405,
+      "width": 336,
+      "height": 54
+    }
+  },
+  {
+    "id": "sh/cnqh8fux",
+    "slide": 13,
+    "name": "text-251",
+    "textPreview": "Kiểm tra quyền sở hữu dữ liệu",
+    "position": {
+      "left": 476,
+      "top": 480,
+      "width": 336,
+      "height": 54
+    }
+  },
+  {
+    "id": "sh/q18f65cr",
+    "slide": 13,
+    "name": "text-253",
+    "textPreview": "AI & HIỆU NĂNG",
+    "position": {
+      "left": 862,
+      "top": 252,
+      "width": 370,
+      "height": 36
+    }
+  },
+  {
+    "id": "sh/oz6x4vul",
+    "slide": 13,
+    "name": "text-255",
+    "textPreview": "Access token cho thiết kế ẩn danh",
+    "position": {
+      "left": 886,
+      "top": 330,
+      "width": 336,
+      "height": 54
+    }
+  },
+  {
+    "id": "sh/2xof2lcv",
+    "slide": 13,
+    "name": "text-257",
+    "textPreview": "ETag + Cache-Control",
+    "position": {
+      "left": 886,
+      "top": 405,
+      "width": 336,
+      "height": 54
+    }
+  },
+  {
+    "id": "sh/8vahgzu5",
+    "slide": 13,
+    "name": "text-259",
+    "textPreview": "Đổi OpenAI/Gemini bằng cấu hình",
+    "position": {
+      "left": 886,
+      "top": 480,
+      "width": 336,
+      "height": 54
+    }
+  },
+  {
+    "id": "sh/jqlkfyds",
+    "slide": 13,
+    "name": "text-261",
+    "textPreview": "Các khóa bí mật được giữ ở backend; Flutter chỉ nhận dữ liệu và URL kết quả cần thiết.",
+    "position": {
+      "left": 72,
+      "top": 596,
+      "width": 1136,
+      "height": 32
+    }
+  },
+  {
+    "id": "sh/y5wjitgj",
+    "slide": 14,
+    "name": "text-262",
+    "textPreview": "BẢO VỆ KHÓA LUẬN",
+    "position": {
+      "left": 42,
+      "top": 30,
+      "width": 330,
+      "height": 24
+    }
+  },
+  {
+    "id": "sh/xc7eds76",
+    "slide": 14,
+    "name": "text-263",
+    "textPreview": "Luồng chức năng khách hàng đã hoàn thiện",
+    "position": {
+      "left": 42,
+      "top": 62,
+      "width": 1135,
+      "height": 76
+    }
+  },
+  {
+    "id": "sh/jepwf2pc",
+    "slide": 14,
+    "name": "text-265",
+    "textPreview": "14",
+    "position": {
+      "left": 1190,
+      "top": 669,
+      "width": 48,
+      "height": 20
+    }
+  },
+  {
+    "id": "sh/idgvmx8r",
+    "slide": 14,
+    "name": "text-266",
+    "textPreview": "Sản phẩm và quyết định mua",
+    "position": {
+      "left": 42,
+      "top": 190,
+      "width": 420,
+      "height": 36
+    }
+  },
+  {
+    "id": "sh/kfidonqx",
+    "slide": 14,
+    "name": "text-268",
+    "textPreview": "Tìm kiếm, lọc và chọn biến thể",
+    "position": {
+      "left": 66,
+      "top": 250,
+      "width": 366,
+      "height": 44
+    }
+  },
+  {
+    "id": "sh/ehwvat8n",
+    "slide": 14,
+    "name": "text-270",
+    "textPreview": "Giỏ hàng, voucher, Mapbox và VNPay",
+    "position": {
+      "left": 66,
+      "top": 312,
+      "width": 366,
+      "height": 44
+    }
+  },
+  {
+    "id": "sh/x4ni9ofy",
+    "slide": 14,
+    "name": "text-272",
+    "textPreview": "Lịch sử đơn, đánh giá và hỗ trợ",
+    "position": {
+      "left": 66,
+      "top": 374,
+      "width": 366,
+      "height": 44
+    }
+  },
+  {
+    "id": "sh/a1wze9g7",
+    "slide": 14,
+    "name": "text-273",
+    "textPreview": "Tư vấn trong đúng ngữ cảnh",
+    "position": {
+      "left": 42,
+      "top": 485,
+      "width": 420,
+      "height": 36
+    }
+  },
+  {
+    "id": "sh/b2507exs",
+    "slide": 14,
+    "name": "text-274",
+    "textPreview": "Trợ lý AI đọc dữ liệu sản phẩm để trả lời về giá, đặc điểm, phối màu và bố trí không gian.",
+    "position": {
+      "left": 42,
+      "top": 535,
+      "width": 390,
+      "height": 86
+    }
+  },
+  {
+    "id": "sh/4vm9ovel",
+    "slide": 15,
+    "name": "text-275",
+    "textPreview": "BẢO VỆ KHÓA LUẬN",
+    "position": {
+      "left": 42,
+      "top": 30,
+      "width": 330,
+      "height": 24
+    }
+  },
+  {
+    "id": "sh/547mhg3m",
+    "slide": 15,
+    "name": "text-276",
+    "textPreview": "Admin và shipper khép kín vận hành sau đặt hàng",
+    "position": {
+      "left": 42,
+      "top": 62,
+      "width": 1135,
+      "height": 76
+    }
+  },
+  {
+    "id": "sh/76p4jqls",
+    "slide": 15,
+    "name": "text-278",
+    "textPreview": "15",
+    "position": {
+      "left": 1190,
+      "top": 669,
+      "width": 48,
+      "height": 20
+    }
+  },
+  {
+    "id": "sh/t87ml0ji",
+    "slide": 15,
+    "name": "text-279",
+    "textPreview": "Admin",
+    "position": {
+      "left": 42,
+      "top": 514,
+      "width": 370,
+      "height": 34
+    }
+  },
+  {
+    "id": "sh/s7y5sv2x",
+    "slide": 15,
+    "name": "text-280",
+    "textPreview": "Theo dõi tổng quan và đơn hàng",
+    "position": {
+      "left": 42,
+      "top": 560,
+      "width": 370,
+      "height": 58
+    }
+  },
+  {
+    "id": "sh/m9c3e1kn",
+    "slide": 15,
+    "name": "text-281",
+    "textPreview": "Điều phối",
+    "position": {
+      "left": 452,
+      "top": 514,
+      "width": 370,
+      "height": 34
+    }
+  },
+  {
+    "id": "sh/wrm9kvep",
+    "slide": 15,
+    "name": "text-282",
+    "textPreview": "Phân ca, theo dõi tải và xử lý sự cố",
+    "position": {
+      "left": 452,
+      "top": 560,
+      "width": 370,
+      "height": 58
+    }
+  },
+  {
+    "id": "sh/upkrilwj",
+    "slide": 15,
+    "name": "text-283",
+    "textPreview": "Shipper",
+    "position": {
+      "left": 862,
+      "top": 514,
+      "width": 370,
+      "height": 34
+    }
+  },
+  {
+    "id": "sh/vqdsrqx4",
+    "slide": 15,
+    "name": "text-284",
+    "textPreview": "Nhận đơn, cập nhật trạng thái và bằng chứng",
+    "position": {
+      "left": 862,
+      "top": 560,
+      "width": 370,
+      "height": 58
+    }
+  },
+  {
+    "id": "sh/ylwj2987",
+    "slide": 16,
+    "name": "text-285",
+    "textPreview": "BẢO VỆ KHÓA LUẬN",
+    "position": {
+      "left": 42,
+      "top": 30,
+      "width": 330,
+      "height": 24
+    }
+  },
+  {
+    "id": "sh/8z2h8bq1",
+    "slide": 16,
+    "name": "text-286",
+    "textPreview": "Kết quả triển khai đã được kiểm chứng",
+    "position": {
+      "left": 42,
+      "top": 62,
+      "width": 1135,
+      "height": 76
+    }
+  },
+  {
+    "id": "sh/ytkf2h8j",
+    "slide": 16,
+    "name": "text-288",
+    "textPreview": "16",
+    "position": {
+      "left": 1190,
+      "top": 669,
+      "width": 48,
+      "height": 20
+    }
+  },
+  {
+    "id": "sh/kv2h4rqp",
+    "slide": 16,
+    "name": "text-290",
+    "textPreview": "19",
+    "position": {
+      "left": 42,
+      "top": 234,
+      "width": 250,
+      "height": 62
+    }
+  },
+  {
+    "id": "sh/lwbyxwra",
+    "slide": 16,
+    "name": "text-291",
+    "textPreview": "controller backend",
+    "position": {
+      "left": 42,
+      "top": 300,
+      "width": 250,
+      "height": 54
+    }
+  },
+  {
+    "id": "sh/3qdg7qpo",
+    "slide": 16,
+    "name": "text-293",
+    "textPreview": "116",
+    "position": {
+      "left": 350,
+      "top": 234,
+      "width": 250,
+      "height": 62
+    }
+  },
+  {
+    "id": "sh/fm1gzq5o",
+    "slide": 16,
+    "name": "text-294",
+    "textPreview": "endpoint HTTP",
+    "position": {
+      "left": 350,
+      "top": 300,
+      "width": 250,
+      "height": 54
+    }
+  },
+  {
+    "id": "sh/1ojy10ne",
+    "slide": 16,
+    "name": "text-296",
+    "textPreview": "19",
+    "position": {
+      "left": 658,
+      "top": 234,
+      "width": 250,
+      "height": 62
+    }
+  },
+  {
+    "id": "sh/gnax8v6t",
+    "slide": 16,
+    "name": "text-297",
+    "textPreview": "thực thể dữ liệu",
+    "position": {
+      "left": 658,
+      "top": 300,
+      "width": 250,
+      "height": 54
+    }
+  },
+  {
+    "id": "sh/2pcfa5oz",
+    "slide": 16,
+    "name": "text-299",
+    "textPreview": "44",
+    "position": {
+      "left": 966,
+      "top": 234,
+      "width": 250,
+      "height": 62
+    }
+  },
+  {
+    "id": "sh/ps3y5knq",
+    "slide": 16,
+    "name": "text-300",
+    "textPreview": "kiểm thử tự động đã đạt",
+    "position": {
+      "left": 966,
+      "top": 300,
+      "width": 250,
+      "height": 54
+    }
+  },
+  {
+    "id": "sh/atczepob",
+    "slide": 16,
+    "name": "text-303",
+    "textPreview": "Backend build",
+    "position": {
+      "left": 72,
+      "top": 504,
+      "width": 230,
+      "height": 32
+    }
+  },
+  {
+    "id": "sh/mpgj6t8j",
+    "slide": 16,
+    "name": "text-304",
+    "textPreview": "Thành công • 0 cảnh báo • 0 lỗi",
+    "position": {
+      "left": 72,
+      "top": 552,
+      "width": 490,
+      "height": 34
+    }
+  },
+  {
+    "id": "sh/8by18jq9",
+    "slide": 16,
+    "name": "text-306",
+    "textPreview": "Kiểm thử",
+    "position": {
+      "left": 698,
+      "top": 504,
+      "width": 230,
+      "height": 32
+    }
+  },
+  {
+    "id": "sh/9c7i1o7u",
+    "slide": 16,
+    "name": "text-307",
+    "textPreview": "40 Flutter + 4 xử lý ảnh AI",
+    "position": {
+      "left": 698,
+      "top": 552,
+      "width": 490,
+      "height": 34
+    }
+  },
+  {
+    "id": "sh/90nq9gfi",
+    "slide": 17,
+    "name": "text-308",
+    "textPreview": "BẢO VỆ KHÓA LUẬN",
+    "position": {
+      "left": 42,
+      "top": 30,
+      "width": 330,
+      "height": 24
+    }
+  },
+  {
+    "id": "sh/1c7e50ni",
+    "slide": 17,
+    "name": "text-309",
+    "textPreview": "Demo tập trung vào ba điểm tạo nên giá trị của hệ thống",
+    "position": {
+      "left": 42,
+      "top": 62,
+      "width": 1135,
+      "height": 76
+    }
+  },
+  {
+    "id": "sh/rm5czq50",
+    "slide": 17,
+    "name": "text-311",
+    "textPreview": "17",
+    "position": {
+      "left": 1190,
+      "top": 669,
+      "width": 48,
+      "height": 20
+    }
+  },
+  {
+    "id": "sh/t8ne10n6",
+    "slide": 17,
+    "name": "text-313",
+    "textPreview": "PHẦN 1",
+    "position": {
+      "left": 42,
+      "top": 266,
+      "width": 220,
+      "height": 30
+    }
+  },
+  {
+    "id": "sh/jilcvq54",
+    "slide": 17,
+    "name": "text-315",
+    "textPreview": "Khách hàng",
+    "position": {
+      "left": 42,
+      "top": 408,
+      "width": 330,
+      "height": 40
+    }
+  },
+  {
+    "id": "sh/ihcvml4j",
+    "slide": 17,
+    "name": "text-316",
+    "textPreview": "Tìm sản phẩm → xem thử trong phòng → thêm vào giỏ",
+    "position": {
+      "left": 42,
+      "top": 470,
+      "width": 330,
+      "height": 82
+    }
+  },
+  {
+    "id": "sh/4by9or6l",
+    "slide": 17,
+    "name": "text-317",
+    "textPreview": "PHẦN 2",
+    "position": {
+      "left": 452,
+      "top": 266,
+      "width": 220,
+      "height": 30
+    }
+  },
+  {
+    "id": "sh/29grm1of",
+    "slide": 17,
+    "name": "text-319",
+    "textPreview": "Đặt hàng",
+    "position": {
+      "left": 452,
+      "top": 408,
+      "width": 330,
+      "height": 40
+    }
+  },
+  {
+    "id": "sh/3ap8fm50",
+    "slide": 17,
+    "name": "text-320",
+    "textPreview": "Mapbox → voucher → thanh toán → trạng thái đơn",
+    "position": {
+      "left": 452,
+      "top": 470,
+      "width": 330,
+      "height": 82
+    }
+  },
+  {
+    "id": "sh/gnepkr69",
+    "slide": 17,
+    "name": "text-321",
+    "textPreview": "PHẦN 3",
+    "position": {
+      "left": 862,
+      "top": 266,
+      "width": 220,
+      "height": 30
+    }
+  },
+  {
+    "id": "sh/ulw7ihoj",
+    "slide": 17,
+    "name": "text-323",
+    "textPreview": "Vận hành",
+    "position": {
+      "left": 862,
+      "top": 408,
+      "width": 330,
+      "height": 40
+    }
+  },
+  {
+    "id": "sh/fm58bm54",
+    "slide": 17,
+    "name": "text-324",
+    "textPreview": "Admin phân công → shipper cập nhật → báo cáo sự cố",
+    "position": {
+      "left": 862,
+      "top": 470,
+      "width": 330,
+      "height": 82
+    }
+  },
+  {
+    "id": "sh/14rqpgne",
+    "slide": 17,
+    "name": "text-326",
+    "textPreview": "Kịch bản dự phòng: dùng ảnh giao diện trong các slide trước nếu môi trường demo mất kết nối dịch vụ ngoài.",
+    "position": {
+      "left": 245,
+      "top": 608,
+      "width": 790,
+      "height": 30
+    }
+  },
+  {
+    "id": "sh/90v6t4ri",
+    "slide": 18,
+    "name": "text-327",
+    "textPreview": "BẢO VỆ KHÓA LUẬN",
+    "position": {
+      "left": 42,
+      "top": 30,
+      "width": 330,
+      "height": 24
+    }
+  },
+  {
+    "id": "sh/wrelszu9",
+    "slide": 18,
+    "name": "text-328",
+    "textPreview": "Hạn chế hiện tại xác định rõ hướng nghiên cứu tiếp theo",
+    "position": {
+      "left": 42,
+      "top": 62,
+      "width": 1135,
+      "height": 76
+    }
+  },
+  {
+    "id": "sh/itw3upcf",
+    "slide": 18,
+    "name": "text-330",
+    "textPreview": "18",
+    "position": {
+      "left": 1190,
+      "top": 669,
+      "width": 48,
+      "height": 20
+    }
+  },
+  {
+    "id": "sh/je5knut0",
+    "slide": 18,
+    "name": "text-331",
+    "textPreview": "ĐỘ CHÍNH XÁC PHỐI CẢNH",
+    "position": {
+      "left": 42,
+      "top": 210,
+      "width": 370,
+      "height": 46
+    }
+  },
+  {
+    "id": "sh/4felwzu5",
+    "slide": 18,
+    "name": "text-332",
+    "textPreview": "Hiện tại",
+    "position": {
+      "left": 42,
+      "top": 304,
+      "width": 140,
+      "height": 30
+    }
+  },
+  {
+    "id": "sh/5gnmp4bq",
+    "slide": 18,
+    "name": "text-333",
+    "textPreview": "Phụ thuộc góc chụp, ánh sáng và chưa bảo đảm tỷ lệ kích thước tuyệt đối.",
+    "position": {
+      "left": 42,
+      "top": 344,
+      "width": 370,
+      "height": 104
+    }
+  },
+  {
+    "id": "sh/rip4retw",
+    "slide": 18,
+    "name": "text-335",
+    "textPreview": "Bước tiếp theo",
+    "position": {
+      "left": 42,
+      "top": 495,
+      "width": 180,
+      "height": 30
+    }
+  },
+  {
+    "id": "sh/fapkr6pw",
+    "slide": 18,
+    "name": "text-336",
+    "textPreview": "3D / AR, hiệu chuẩn camera và bộ dữ liệu kiểm thử đa dạng hơn.",
+    "position": {
+      "left": 42,
+      "top": 536,
+      "width": 370,
+      "height": 92
+    }
+  },
+  {
+    "id": "sh/upg3i18r",
+    "slide": 18,
+    "name": "text-337",
+    "textPreview": "CÁ NHÂN HÓA GỢI Ý",
+    "position": {
+      "left": 452,
+      "top": 210,
+      "width": 370,
+      "height": 46
+    }
+  },
+  {
+    "id": "sh/1cr2tg72",
+    "slide": 18,
+    "name": "text-338",
+    "textPreview": "Hiện tại",
+    "position": {
+      "left": 452,
+      "top": 304,
+      "width": 140,
+      "height": 30
+    }
+  },
+  {
+    "id": "sh/gbylkbqh",
+    "slide": 18,
+    "name": "text-339",
+    "textPreview": "Apriori cần thêm lịch sử giao dịch; chưa có hồ sơ sở thích từng người dùng.",
+    "position": {
+      "left": 452,
+      "top": 344,
+      "width": 370,
+      "height": 104
+    }
+  },
+  {
+    "id": "sh/6lg3e18f",
+    "slide": 18,
+    "name": "text-341",
+    "textPreview": "Bước tiếp theo",
+    "position": {
+      "left": 452,
+      "top": 495,
+      "width": 180,
+      "height": 30
+    }
+  },
+  {
+    "id": "sh/to72pw76",
+    "slide": 18,
+    "name": "text-342",
+    "textPreview": "Thu thập lượt xem, tìm kiếm, giỏ hàng; thử lọc cộng tác hoặc mô hình lai.",
+    "position": {
+      "left": 452,
+      "top": 536,
+      "width": 370,
+      "height": 92
+    }
+  },
+  {
+    "id": "sh/snylgrql",
+    "slide": 18,
+    "name": "text-343",
+    "textPreview": "SẴN SÀNG VẬN HÀNH LỚN",
+    "position": {
+      "left": 862,
+      "top": 210,
+      "width": 370,
+      "height": 46
+    }
+  },
+  {
+    "id": "sh/bi94zqp4",
+    "slide": 18,
+    "name": "text-344",
+    "textPreview": "Hiện tại",
+    "position": {
+      "left": 862,
+      "top": 304,
+      "width": 140,
+      "height": 30
+    }
+  },
+  {
+    "id": "sh/qh03ql8j",
+    "slide": 18,
+    "name": "text-345",
+    "textPreview": "Phụ thuộc quota dịch vụ ngoài; chưa kiểm thử tải và bảo mật chuyên sâu.",
+    "position": {
+      "left": 862,
+      "top": 344,
+      "width": 370,
+      "height": 104
+    }
+  },
+  {
+    "id": "sh/nedoru9c",
+    "slide": 18,
+    "name": "text-347",
+    "textPreview": "Bước tiếp theo",
+    "position": {
+      "left": 862,
+      "top": 495,
+      "width": 180,
+      "height": 30
+    }
+  },
+  {
+    "id": "sh/8zm5kzax",
+    "slide": 18,
+    "name": "text-348",
+    "textPreview": "Cloud, giám sát, retry, quản lý secret và tối ưu định tuyến giao hàng.",
+    "position": {
+      "left": 862,
+      "top": 536,
+      "width": 370,
+      "height": 92
+    }
+  },
+  {
+    "id": "sh/et0jix8r",
+    "slide": 19,
+    "name": "text-349",
+    "textPreview": "BẢO VỆ KHÓA LUẬN",
+    "position": {
+      "left": 42,
+      "top": 30,
+      "width": 330,
+      "height": 24
+    }
+  },
+  {
+    "id": "sh/9gb6xgbi",
+    "slide": 19,
+    "name": "text-350",
+    "textPreview": "AI được tích hợp vào quy trình bán lẻ hoàn chỉnh",
+    "position": {
+      "left": 42,
+      "top": 62,
+      "width": 1135,
+      "height": 76
+    }
+  },
+  {
+    "id": "sh/vitozqt8",
+    "slide": 19,
+    "name": "text-352",
+    "textPreview": "19",
+    "position": {
+      "left": 1190,
+      "top": 669,
+      "width": 48,
+      "height": 20
+    }
+  },
+  {
+    "id": "sh/ahk7qls3",
+    "slide": 19,
+    "name": "text-353",
+    "textPreview": "My Furniture Store không tách AI thành một tính năng trình diễn; hệ thống đặt AI vào đúng thời điểm khách cần ra quyết định và vẫn giữ đư...",
+    "position": {
+      "left": 42,
+      "top": 188,
+      "width": 1150,
+      "height": 110
+    }
+  },
+  {
+    "id": "sh/wj2psvat",
+    "slide": 19,
+    "name": "text-355",
+    "textPreview": "Giá trị người dùng",
+    "position": {
+      "left": 42,
+      "top": 410,
+      "width": 370,
+      "height": 36
+    }
+  },
+  {
+    "id": "sh/jmd83atk",
+    "slide": 19,
+    "name": "text-356",
+    "textPreview": "Tìm, chọn, xem thử và đặt hàng trong một hành trình.",
+    "position": {
+      "left": 42,
+      "top": 476,
+      "width": 370,
+      "height": 86
+    }
+  },
+  {
+    "id": "sh/cri1gnql",
+    "slide": 19,
+    "name": "text-358",
+    "textPreview": "Giá trị kỹ thuật",
+    "position": {
+      "left": 452,
+      "top": 410,
+      "width": 370,
+      "height": 36
+    }
+  },
+  {
+    "id": "sh/dsri9sr6",
+    "slide": 19,
+    "name": "text-359",
+    "textPreview": "Kiến trúc nhiều dịch vụ, phân quyền và xử lý ảnh có thể mở rộng.",
+    "position": {
+      "left": 452,
+      "top": 476,
+      "width": 370,
+      "height": 86
+    }
+  },
+  {
+    "id": "sh/rqp07290",
+    "slide": 19,
+    "name": "text-361",
+    "textPreview": "Giá trị vận hành",
+    "position": {
+      "left": 862,
+      "top": 410,
+      "width": 370,
+      "height": 36
+    }
+  },
+  {
+    "id": "sh/0vi1k7qx",
+    "slide": 19,
+    "name": "text-362",
+    "textPreview": "Admin và shipper cùng quản lý trạng thái đến khi giao hàng hoàn tất.",
+    "position": {
+      "left": 862,
+      "top": 476,
+      "width": 370,
+      "height": 86
+    }
+  },
+  {
+    "id": "sh/1gridcr2",
+    "slide": 19,
+    "name": "text-363",
+    "textPreview": "Kết quả hiện tại là nền tảng khả thi để tiếp tục đánh giá bằng dữ liệu người dùng thực tế.",
+    "position": {
+      "left": 150,
+      "top": 612,
+      "width": 980,
+      "height": 34
+    }
+  },
+  {
+    "id": "sh/3ml0rmpw",
+    "slide": 20,
+    "name": "text-364",
+    "textPreview": "BẢO VỆ KHÓA LUẬN",
+    "position": {
+      "left": 42,
+      "top": 42,
+      "width": 300,
+      "height": 36
+    }
+  },
+  {
+    "id": "sh/qpwjmh8n",
+    "slide": 20,
+    "name": "text-365",
+    "textPreview": "Cảm ơn Hội đồng",
+    "position": {
+      "left": 42,
+      "top": 182,
+      "width": 990,
+      "height": 145
+    }
+  },
+  {
+    "id": "sh/rq50vmp8",
+    "slide": 20,
+    "name": "text-366",
+    "textPreview": "Nhóm xin lắng nghe câu hỏi và góp ý",
+    "position": {
+      "left": 42,
+      "top": 366,
+      "width": 800,
+      "height": 62
+    }
+  },
+  {
+    "id": "sh/4nu1krqh",
+    "slide": 20,
+    "name": "text-367",
+    "textPreview": "Đỗ Minh Vĩ Khang | Trần Ngọc Nhật Duy",
+    "position": {
+      "left": 42,
+      "top": 532,
+      "width": 420,
+      "height": 94
+    }
+  },
+  {
+    "id": "sh/2lczih8r",
+    "slide": 20,
+    "name": "text-369",
+    "textPreview": "Q&A",
+    "position": {
+      "left": 1030,
+      "top": 525,
+      "width": 208,
+      "height": 70
+    }
+  }
+]

@@ -1,0 +1,7 @@
+Nguồn: BaoCao_BaoVe_KhoaLuan_MyFurnitureStore.pptx
+Quy mô: 20 slide, 1280 x 720 px, nền trắng.
+Hệ thống phân cấp: 1 master (Master) -> 1 layout (Title Slide); không có placeholder kế thừa.
+Kiểu chữ chủ đạo: Arial; màu chữ #101828, màu nhấn #3D8DFF, màu phụ #5B6472.
+Slide 1 hiện có 5 textbox và 1 image, tất cả ở cấp slide. Các slide 2-20 được giữ nguyên.
+Quy tắc chỉnh sửa: tái sử dụng toàn bộ 6 phần tử hiện có của slide 1; chỉ thay nội dung, vị trí, kích thước và ảnh logo. Không tác động master, layout hoặc slide khác.
+Hướng thiết kế: bìa học thuật tối giản theo ảnh tham chiếu của người dùng; căn giữa phần trường/logo/tiêu đề, chia metadata phía dưới thành hai cột cân bằng.

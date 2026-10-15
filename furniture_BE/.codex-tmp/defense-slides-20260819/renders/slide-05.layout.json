@@ -1,0 +1,1249 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/wi7ty8",
+    "id": "wi7ty8",
+    "slide": 5,
+    "layoutId": "1a5e1a15-b871-46b2-b6b4-82d79fa38a3a",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "df5ba969-be35-4c3e-8dea-3991486e75a1",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Arial"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "1a5e1a15-b871-46b2-b6b4-82d79fa38a3a",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "df5ba969-be35-4c3e-8dea-3991486e75a1",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "df5ba969-be35-4c3e-8dea-3991486e75a1",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ov25ov6x",
+      "id": "1",
+      "name": "text-67",
+      "bbox": [
+        42,
+        30,
+        330,
+        24
+      ],
+      "geometry": "rect",
+      "text": "BẢO VỆ KHÓA LUẬN",
+      "textPreview": "BẢO VỆ KHÓA LUẬN",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14,
+        "typeface": "Arial",
+        "color": "#3D8DFF",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "BẢO VỆ KHÓA LUẬN"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "BẢO VỆ KHÓA LUẬN",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Arial",
+            "color": "#3D8DFF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "BẢO VỆ KHÓA LUẬN",
+              "fontSize": 14,
+              "typeface": "Arial",
+              "color": "#3D8DFF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3ut4fa5c",
+      "id": "2",
+      "name": "text-68",
+      "bbox": [
+        42,
+        62,
+        1135,
+        76
+      ],
+      "geometry": "rect",
+      "text": "Một nền tảng kết nối ba vai trò quanh cùng đơn hàng",
+      "textPreview": "Một nền tảng kết nối ba vai trò quanh cùng đơn hàng",
+      "resolvedFontSize": 40,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 40,
+        "typeface": "Arial",
+        "color": "#101828",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Một nền tảng kết nối ba vai trò quanh cùng đơn hàng"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Một nền tảng kết nối ba vai trò quanh cùng đơn hàng",
+          "resolvedTextStyle": {
+            "fontSize": 40,
+            "typeface": "Arial",
+            "color": "#101828",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Một nền tảng kết nối ba vai trò quanh cùng đơn hàng",
+              "fontSize": 40,
+              "typeface": "Arial",
+              "color": "#101828",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2tk3m5or",
+      "id": "3",
+      "name": "line-69",
+      "bbox": [
+        42,
+        146,
+        1196,
+        1
+      ],
+      "geometry": "line",
+      "lineColor": "#B8BCC4",
+      "lineWidth": 1
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dkvmlkne",
+      "id": "4",
+      "name": "text-70",
+      "bbox": [
+        1190,
+        669,
+        48,
+        20
+      ],
+      "geometry": "rect",
+      "text": "05",
+      "textPreview": "05",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 13,
+        "typeface": "Arial",
+        "color": "#5B6472",
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "05"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "05",
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "typeface": "Arial",
+            "color": "#5B6472",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "05",
+              "fontSize": 13,
+              "typeface": "Arial",
+              "color": "#5B6472",
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cjm5sf69",
+      "id": "5",
+      "name": "line-71",
+      "bbox": [
+        216,
+        365,
+        850,
+        1
+      ],
+      "geometry": "line",
+      "lineColor": "#B8BCC4",
+      "lineWidth": 2
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/byd4ja5o",
+      "id": "6",
+      "name": "box-72",
+      "bbox": [
+        46,
+        216,
+        360,
+        330
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#F2F4F7",
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qx4nq5o3",
+      "id": "7",
+      "name": "box-73",
+      "bbox": [
+        74,
+        245,
+        54,
+        54
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#3D8DFF",
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lovmpknq",
+      "id": "8",
+      "name": "text-74",
+      "bbox": [
+        74,
+        254,
+        54,
+        34
+      ],
+      "geometry": "rect",
+      "text": "1",
+      "textPreview": "1",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Arial",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "1"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "1",
+          "resolvedTextStyle": {
+            "fontSize": 24,
+            "typeface": "Arial",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "1",
+              "fontSize": 24,
+              "typeface": "Arial",
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0nm5wz65",
+      "id": "9",
+      "name": "text-75",
+      "bbox": [
+        74,
+        326,
+        300,
+        32
+      ],
+      "geometry": "rect",
+      "text": "KHÁCH HÀNG",
+      "textPreview": "KHÁCH HÀNG",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 20,
+        "typeface": "Arial",
+        "color": "#3D8DFF",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "KHÁCH HÀNG"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "KHÁCH HÀNG",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Arial",
+            "color": "#3D8DFF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "KHÁCH HÀNG",
+              "fontSize": 20,
+              "typeface": "Arial",
+              "color": "#3D8DFF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/i98futgb",
+      "id": "10",
+      "name": "text-76",
+      "bbox": [
+        74,
+        390,
+        300,
+        110
+      ],
+      "geometry": "rect",
+      "text": "Khám phá • chọn biến thể\nGiỏ hàng • VNPay • đánh giá\nTrợ lý AI • thiết kế phòng",
+      "textPreview": "Khám phá • chọn biến thể | Giỏ hàng • VNPay • đánh giá | Trợ lý AI • thiết kế phòng",
+      "resolvedFontSize": 19,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 19,
+        "typeface": "Arial",
+        "color": "#101828",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Khám phá • chọn biến thể"
+          },
+          {
+            "index": 2,
+            "text": "Giỏ hàng • VNPay • đánh giá"
+          },
+          {
+            "index": 3,
+            "text": "Trợ lý AI • thiết kế phòng"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Khám phá • chọn biến thể",
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "typeface": "Arial",
+            "color": "#101828",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Khám phá • chọn biến thể",
+              "fontSize": 19,
+              "typeface": "Arial",
+              "color": "#101828",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "Giỏ hàng • VNPay • đánh giá",
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "typeface": "Arial",
+            "color": "#101828",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Giỏ hàng • VNPay • đánh giá",
+              "fontSize": 19,
+              "typeface": "Arial",
+              "color": "#101828",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "Trợ lý AI • thiết kế phòng",
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "typeface": "Arial",
+            "color": "#101828",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Trợ lý AI • thiết kế phòng",
+              "fontSize": 19,
+              "typeface": "Arial",
+              "color": "#101828",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/juhwnyxg",
+      "id": "11",
+      "name": "box-77",
+      "bbox": [
+        458,
+        216,
+        360,
+        330
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#F2F4F7",
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4vqxw3y1",
+      "id": "12",
+      "name": "box-78",
+      "bbox": [
+        486,
+        245,
+        54,
+        54
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#18A56A",
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5wzep8fm",
+      "id": "13",
+      "name": "text-79",
+      "bbox": [
+        486,
+        254,
+        54,
+        34
+      ],
+      "geometry": "rect",
+      "text": "2",
+      "textPreview": "2",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Arial",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "2"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "2",
+          "resolvedTextStyle": {
+            "fontSize": 24,
+            "typeface": "Arial",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "2",
+              "fontSize": 24,
+              "typeface": "Arial",
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6x8fydw7",
+      "id": "14",
+      "name": "text-80",
+      "bbox": [
+        486,
+        326,
+        300,
+        32
+      ],
+      "geometry": "rect",
+      "text": "QUẢN TRỊ VIÊN",
+      "textPreview": "QUẢN TRỊ VIÊN",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 20,
+        "typeface": "Arial",
+        "color": "#18A56A",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "QUẢN TRỊ VIÊN"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "QUẢN TRỊ VIÊN",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Arial",
+            "color": "#18A56A",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "QUẢN TRỊ VIÊN",
+              "fontSize": 20,
+              "typeface": "Arial",
+              "color": "#18A56A",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ryhwrixs",
+      "id": "15",
+      "name": "text-81",
+      "bbox": [
+        486,
+        390,
+        300,
+        110
+      ],
+      "geometry": "rect",
+      "text": "Sản phẩm • tồn kho • voucher\nĐơn hàng • doanh thu • hỗ trợ\nĐề xuất • điều phối giao hàng",
+      "textPreview": "Sản phẩm • tồn kho • voucher | Đơn hàng • doanh thu • hỗ trợ | Đề xuất • điều phối giao hàng",
+      "resolvedFontSize": 19,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 19,
+        "typeface": "Arial",
+        "color": "#101828",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Sản phẩm • tồn kho • voucher"
+          },
+          {
+            "index": 2,
+            "text": "Đơn hàng • doanh thu • hỗ trợ"
+          },
+          {
+            "index": 3,
+            "text": "Đề xuất • điều phối giao hàng"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Sản phẩm • tồn kho • voucher",
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "typeface": "Arial",
+            "color": "#101828",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Sản phẩm • tồn kho • voucher",
+              "fontSize": 19,
+              "typeface": "Arial",
+              "color": "#101828",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "Đơn hàng • doanh thu • hỗ trợ",
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "typeface": "Arial",
+            "color": "#101828",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Đơn hàng • doanh thu • hỗ trợ",
+              "fontSize": 19,
+              "typeface": "Arial",
+              "color": "#101828",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "Đề xuất • điều phối giao hàng",
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "typeface": "Arial",
+            "color": "#101828",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Đề xuất • điều phối giao hàng",
+              "fontSize": 19,
+              "typeface": "Arial",
+              "color": "#101828",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/szqx0ned",
+      "id": "16",
+      "name": "box-82",
+      "bbox": [
+        870,
+        216,
+        360,
+        330
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#F2F4F7",
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/t0jetsfy",
+      "id": "17",
+      "name": "box-83",
+      "bbox": [
+        898,
+        245,
+        54,
+        54
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#E99B2E",
+      "lineWidth": 0
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/m14vm9g3",
+      "id": "18",
+      "name": "text-84",
+      "bbox": [
+        898,
+        254,
+        54,
+        34
+      ],
+      "geometry": "rect",
+      "text": "3",
+      "textPreview": "3",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Arial",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "3"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "3",
+          "resolvedTextStyle": {
+            "fontSize": 24,
+            "typeface": "Arial",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "3",
+              "fontSize": 24,
+              "typeface": "Arial",
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/72xwfexo",
+      "id": "19",
+      "name": "text-85",
+      "bbox": [
+        898,
+        326,
+        300,
+        32
+      ],
+      "geometry": "rect",
+      "text": "NHÂN VIÊN GIAO HÀNG",
+      "textPreview": "NHÂN VIÊN GIAO HÀNG",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 20,
+        "typeface": "Arial",
+        "color": "#E99B2E",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "NHÂN VIÊN GIAO HÀNG"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "NHÂN VIÊN GIAO HÀNG",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Arial",
+            "color": "#E99B2E",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "NHÂN VIÊN GIAO HÀNG",
+              "fontSize": 20,
+              "typeface": "Arial",
+              "color": "#E99B2E",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ru9k7q94",
+      "id": "20",
+      "name": "text-86",
+      "bbox": [
+        898,
+        390,
+        300,
+        110
+      ],
+      "geometry": "rect",
+      "text": "Trạng thái ca làm\nNhận đơn • cập nhật kết quả\nBằng chứng • sự cố • hẹn lại",
+      "textPreview": "Trạng thái ca làm | Nhận đơn • cập nhật kết quả | Bằng chứng • sự cố • hẹn lại",
+      "resolvedFontSize": 19,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 19,
+        "typeface": "Arial",
+        "color": "#101828",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Trạng thái ca làm"
+          },
+          {
+            "index": 2,
+            "text": "Nhận đơn • cập nhật kết quả"
+          },
+          {
+            "index": 3,
+            "text": "Bằng chứng • sự cố • hẹn lại"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Trạng thái ca làm",
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "typeface": "Arial",
+            "color": "#101828",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Trạng thái ca làm",
+              "fontSize": 19,
+              "typeface": "Arial",
+              "color": "#101828",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "Nhận đơn • cập nhật kết quả",
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "typeface": "Arial",
+            "color": "#101828",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Nhận đơn • cập nhật kết quả",
+              "fontSize": 19,
+              "typeface": "Arial",
+              "color": "#101828",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "Bằng chứng • sự cố • hẹn lại",
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "typeface": "Arial",
+            "color": "#101828",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Bằng chứng • sự cố • hẹn lại",
+              "fontSize": 19,
+              "typeface": "Arial",
+              "color": "#101828",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qt03ylsj",
+      "id": "21",
+      "name": "text-87",
+      "bbox": [
+        145,
+        594,
+        990,
+        42
+      ],
+      "geometry": "rect",
+      "text": "Trạng thái đơn hàng là điểm nối giữa trải nghiệm mua sắm và vận hành cửa hàng.",
+      "textPreview": "Trạng thái đơn hàng là điểm nối giữa trải nghiệm mua sắm và vận hành cửa hàng.",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 22,
+        "typeface": "Arial",
+        "color": "#101828",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Trạng thái đơn hàng là điểm nối giữa trải nghiệm mua sắm và vận hành cửa hàng."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Trạng thái đơn hàng là điểm nối giữa trải nghiệm mua sắm và vận hành cửa hàng.",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Arial",
+            "color": "#101828",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Trạng thái đơn hàng là điểm nối giữa trải nghiệm mua sắm và vận hành cửa hàng.",
+              "fontSize": 22,
+              "typeface": "Arial",
+              "color": "#101828",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

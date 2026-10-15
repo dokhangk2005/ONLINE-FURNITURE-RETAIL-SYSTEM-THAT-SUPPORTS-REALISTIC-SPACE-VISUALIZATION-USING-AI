@@ -1,0 +1,762 @@
+[
+  {
+    "style": "Heading 1",
+    "text": "Lời Cam Đoan"
+  },
+  {
+    "style": "Heading 1",
+    "text": "Lời  mở đầu"
+  },
+  {
+    "style": "Heading 1",
+    "text": "Lời cảm ơn"
+  },
+  {
+    "style": "Heading 1",
+    "text": "Mục lục"
+  },
+  {
+    "style": "Heading 1",
+    "text": "Danh mục viết tắt"
+  },
+  {
+    "style": "Heading 1",
+    "text": "Danh mục hình ảnh"
+  },
+  {
+    "style": "Heading 1",
+    "text": "Danh mục Bảng"
+  },
+  {
+    "style": "Heading 1",
+    "text": "Mở đầu"
+  },
+  {
+    "style": "Heading 2",
+    "text": "Lý do chọn đề tài"
+  },
+  {
+    "style": "Heading 2",
+    "text": "Mục đích đề tài"
+  },
+  {
+    "style": "Heading 2",
+    "text": "Phạm vi nghiên cứu"
+  },
+  {
+    "style": "Heading 2",
+    "text": "Phương pháp nghiên cứu"
+  },
+  {
+    "style": "Heading 1",
+    "text": "Cơ sở lý thuyết"
+  },
+  {
+    "style": "Heading 2",
+    "text": "Tìm hiểu về kiến trúc và công nghệ xây dựng hệ thống thương mại điện tử"
+  },
+  {
+    "style": "Heading 3",
+    "text": "Mô hình client–server"
+  },
+  {
+    "style": "Heading 3",
+    "text": "RESTful API"
+  },
+  {
+    "style": "Heading 3",
+    "text": "Flutter và ngôn ngữ Dart"
+  },
+  {
+    "style": "Heading 3",
+    "text": "ASP.NET Core Web API và ngôn ngữ C#"
+  },
+  {
+    "style": "Heading 3",
+    "text": "Entity Framework Core và SQL Server"
+  },
+  {
+    "style": "Heading 3",
+    "text": "Xác thực và phân quyền"
+  },
+  {
+    "style": "Heading 3",
+    "text": "Thanh toán trực tuyến và bản đồ địa chỉ"
+  },
+  {
+    "style": "Heading 2",
+    "text": "Tìm hiểu về hệ thống đề xuất sản phẩm"
+  },
+  {
+    "style": "Heading 3",
+    "text": "Tổng quan"
+  },
+  {
+    "style": "Heading 3",
+    "text": "Thuật toán Apriori"
+  },
+  {
+    "style": "Heading 3",
+    "text": "Đề xuất dựa trên nội dung"
+  },
+  {
+    "style": "Heading 3",
+    "text": "Phương pháp đề xuất kết hợp"
+  },
+  {
+    "style": "Heading 2",
+    "text": "Tìm hiểu về công nghệ AI trong thiết kế không gian nội thất"
+  },
+  {
+    "style": "Heading 3",
+    "text": "Tổng quan về thị giác máy tính"
+  },
+  {
+    "style": "Heading 3",
+    "text": "Kỹ thuật xóa nền ảnh sản phẩm"
+  },
+  {
+    "style": "Heading 3",
+    "text": "Phân vùng ngữ nghĩa bằng SegFormer"
+  },
+  {
+    "style": "Heading 3",
+    "text": "Ước lượng chiều sâu bằng Depth Anything V2"
+  },
+  {
+    "style": "Heading 3",
+    "text": "Hiệu chỉnh phối cảnh, ánh sáng và che khuất"
+  },
+  {
+    "style": "Heading 3",
+    "text": "Trí tuệ nhân tạo tạo sinh"
+  },
+  {
+    "style": "Heading 3",
+    "text": "Quy trình tạo phối cảnh trong hệ thống"
+  },
+  {
+    "style": "Heading 3",
+    "text": "Đánh giá chung"
+  },
+  {
+    "style": "Heading 2",
+    "text": "Kết luận chương"
+  },
+  {
+    "style": "Heading 1",
+    "text": "Phân tích thiết kế ứng dụng"
+  },
+  {
+    "style": "Heading 2",
+    "text": "Phân tích và thiết kế kiến trúc phần mềm"
+  },
+  {
+    "style": "Heading 3",
+    "text": "Sơ đồ kiến trúc tổng thể hệ thống"
+  },
+  {
+    "style": "Heading 3",
+    "text": "Cách tổ chức cấu trúc các khối Frontend"
+  },
+  {
+    "style": "Heading 3",
+    "text": "Cách tổ chức cấu trúc các khối Backend"
+  },
+  {
+    "style": "Heading 2",
+    "text": "Phân tích và thiết kế phần mềm"
+  },
+  {
+    "style": "Heading 3",
+    "text": "Đặc tả UseCase"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Use Case: tìm kiếm và lọc sản phẩm"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Use Case: đặt hàng và xác thực địa chỉ Mapbox"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Use Case: xem lịch sử đơn hàng và trạng thái"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Use Case: báo cáo sự cố giao hàng / Hẹn giao lại"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Use Case: xác nhận hoàn thành đơn hàng"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Use Case: xác nhận đơn hàng trực tuyến"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Use Case: phân công và điều phối giao hàng"
+  },
+  {
+    "style": "Heading 3",
+    "text": "UseCase Diagram"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Sơ đồ tổng quát"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Sơ đồ chi tiết: Quy trình đăng ký/đăng nhập tài khoản"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Sơ đồ chi tiết: Quy trình tìm kiếm và lọc sản phẩm"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Sơ đồ chi tiết: Quy trình quản lý giỏ hàng"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Sơ đồ chi tiết: Quy trình đặt hàng và xác thực địa chỉ Mapbox"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Sơ đồ chi tiết: Quy trình xem lịch sử đơn hàng và trạng thái"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Sơ đồ chi tiết: Quy trình viết đánh giá sản phẩm"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Sơ đồ chi tiết: Quy trình cập nhật trạng thái giao hàng"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Sơ đồ chi tiết: Quy trình xem danh sách đơn hàng được phân công"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Sơ đồ chi tiết: Quy trình báo cáo sự cố giao hàng / hẹn giao lại"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Sơ đồ chi tiết: Quy trình xác nhận hoàn thành đơn hàng"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Sơ đồ chi tiết: Quy trình quản lý sản phẩm và kho biến thể"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Sơ đồ chi tiết: Quy trình quản lý tài khoản người dùng"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Sơ đồ chi tiết: Quy trình xác nhận đơn hàng trực tuyến"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Sơ đồ chi tiết: Quy trình phân công và điều phối giao hàng"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Sơ đồ chi tiết: Quy trình phản hồi đánh giá của khách hàng"
+  },
+  {
+    "style": "Heading 3",
+    "text": "Activiti Diagram"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Đăng nhập & Xác thực phân quyền"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Tìm kiếm sản phẩm Autocomplete & Lọc nâng cao"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Thêm sản phẩm vào giỏ hàng theo Biến thể"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Đặt hàng & Tự động điền địa chỉ qua Mapbox"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Phối cảnh thực tế ảo tích hợp AI Gemini"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Duyệt xác nhận đơn hàng mới của Admin"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Phân công & Điều phối ca giao hàng của Admin"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Shipper xử lý giao hàng & Báo cáo kết quả"
+  },
+  {
+    "style": "Heading 3",
+    "text": "Sequence Diagram"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Quy trình đăng nhập và xác thực phân quyền"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Quy trình tìm kiếm sản phẩm Autocomplete và lọc nâng cao"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Quy trình thêm sản phẩm vào giỏ hàng theo biến thể"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Quy trình đặt hàng và tự động điền địa chỉ qua Mapbox"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Quy trình phối cảnh thực tế ảo tích hợp AI Gemini"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Quy trình duyệt xác nhận đơn hàng mới của Admin"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Quy trình phân công và điều phối ca giao hàng của Admin"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Quy trình shipper xử lý giao hàng và báo cáo kết quả"
+  },
+  {
+    "style": "Heading 3",
+    "text": "Class Diagram"
+  },
+  {
+    "style": "Heading 2",
+    "text": "Thiết kế cơ sở dữ liệu"
+  },
+  {
+    "style": "Heading 3",
+    "text": "Sơ đồ Logic – Mô hình quan hệ"
+  },
+  {
+    "style": "Heading 3",
+    "text": "Chi tiết các bảng"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Bảng Roles"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Bảng Users"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Bảng UserAddresses"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Bảng Categories"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Bảng RoomDesigns"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Bảng Products"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Bảng ProductVariants"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Bảng ProductImages"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Bảng Orders"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Bảng OrderDetails"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Bảng Payments"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Bảng PaymentReconciliationHistories"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Bảng Vouchers"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Bảng Reviews"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Bảng SupportQuestions"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Bảng SupportConversations"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Bảng SupportMessages"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Bảng ProductRecommendations"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Bảng RecommendationSettings"
+  },
+  {
+    "style": "Heading 2",
+    "text": "Thiết kế giao diện"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Sơ đồ giao diện tổng quát"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Giao diện trang chủ"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Giao diện trang sang sản phẩm"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Giao diện trang chi tiết sản phẩm"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Giao diện Trang giỏ hàng"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Giao diện trang thanh toán"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Giao diện trang đăng ký"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Giao diện trang đăng nhập"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Giao diện thông tin cá nhân"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Giao diện lịch sử mua hàng"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Giao diện trang đánh giá"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Giao diện Dashboard admin"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Giao diện quản lý sản phẩm"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Giao diện quản lý danh mục"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Giao diện quản lý đánh giá"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Giao diện quản lý đơn hàng"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Giao diện quản lí tài khoản"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Giao diện báo cáo thống kê"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Giao diện hỗ trợ tư vấn"
+  },
+  {
+    "style": "Heading 1",
+    "text": "Triển khai, thực thi và kết quả đạt được"
+  },
+  {
+    "style": "Heading 2",
+    "text": "Công nghệ thực hiện"
+  },
+  {
+    "style": "Heading 3",
+    "text": "Framework, ngôn ngữ lập trình và các dịch vụ bên thứ 3"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Ngôn ngữ lập trình và Framework"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Thư viện và gói hỗ trợ"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Dịch vụ và nền tảng bên thứ ba"
+  },
+  {
+    "style": "Heading 3",
+    "text": "Các quy trình được áp dụng"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Quy trình phát triển phần mềm"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Quy trình giao tiếp client – server"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Quy trình xử lí đơn hàng và thanh toán"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Quy trình xử lí giao hàng"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Quy trình kiểm thử"
+  },
+  {
+    "style": "Heading 3",
+    "text": "Kiến thức công nghệ mở rộng và giải pháp nhóm tự nghiên cứu"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Xử lí tạo phối cảnh nội thất"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Cơ chế lưu trữ và bộ nhớ đệm cho ảnh AI"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Hệ thống đề xuất sản phẩm"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Bảo mật và phân quyền"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Tích hợp nhiều hệ thống độc lập"
+  },
+  {
+    "style": "Heading 2",
+    "text": "Các chức năng đã thực thi"
+  },
+  {
+    "style": "Heading 3",
+    "text": "Chức năng dành cho khách hàng"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Trang chủ"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Đăng kí và đăng nhập"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Tìm kiếm và lọc sản phẩm"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Xem chi tiết sản phẩm"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Quản lý giỏ hàng"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Đặt hàng và thanh toán"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Quản lí tài khoản cá nhân"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Đánh giá sản phẩm"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Trợ lý AI tư vấn nội thất"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Thiết kế và xem thử nội thất trong phòng"
+  },
+  {
+    "style": "Heading 3",
+    "text": "Chức năng dành cho quản trị viên"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Trang tổng quan"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Quản lí danh mục và sản phẩm"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Quản lí đơn hàng"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Quản lí tài khoản"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Quản lí mã giảm giá"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Quản lí đánh giá và hỏi đáp"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Quản lí vận chuyển"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Quản lí hệ thống đề xuất"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Quản lí doanh thu"
+  },
+  {
+    "style": "Heading 3",
+    "text": "Chức năng dành cho nhân viên giao hàng"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Quản lí trạng thái làm việc"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Xem chi tiết và cập nhập kết quả giao hàng"
+  },
+  {
+    "style": "Heading 4",
+    "text": "Báo cáo sự cố giao hàng"
+  },
+  {
+    "style": "Heading 1",
+    "text": "Tổng kết và kiến nghị"
+  },
+  {
+    "style": "Heading 2",
+    "text": "Tóm tắt kết quả nghiên cứu và thực hiện"
+  },
+  {
+    "style": "Heading 2",
+    "text": "Hạn chế và kiến nghị"
+  },
+  {
+    "style": "Heading 2",
+    "text": "Kết luận chương"
+  },
+  {
+    "style": "Heading 1",
+    "text": "Tài liệu tham khảo"
+  },
+  {
+    "style": "Heading 2",
+    "text": "[1] R. Agrawal and R. Srikant, \"Fast algorithms for mining association rules,\" in Proc. 20th Int. Conf. Very Large Data Bases (VLDB), Santiago de Chile, Chile, 1994, pp. 487-499."
+  },
+  {
+    "style": "Heading 2",
+    "text": "[2] X. Qin, Z. Zhang, C. Huang, M. Dehghan, O. R. Zaiane, and M. Jagersand, \"U2-Net: Going deeper with nested U-structure for salient object detection,\" Pattern Recognition, vol. 106, p. 107404, Oct. 2020."
+  },
+  {
+    "style": "Heading 2",
+    "text": "[3] E. Xie, W. Wang, Z. Yu, A. Anandkumar, J. M. Alvarez, and P. Luo, \"SegFormer: Simple and efficient design for semantic segmentation with transformers,\" in Advances in Neural Information Processing Systems (NeurIPS), vol. 34, pp. 12077-12090, 2021."
+  },
+  {
+    "style": "Heading 2",
+    "text": "[4] L. Yang et al., \"Depth Anything V2,\" arXiv preprint arXiv:2406.09414, 2024."
+  },
+  {
+    "style": "Heading 2",
+    "text": "[5] Google, \"Flutter Documentation,\" Flutter.dev. [Online]. Available: https://docs.flutter.dev/. [Accessed: Aug. 15, 2026]."
+  },
+  {
+    "style": "Heading 2",
+    "text": "[6] Microsoft, \"Overview of ASP.NET Core,\" Microsoft Learn. [Online]. Available: https://learn.microsoft.com/en-us/aspnet/core/. [Accessed: Aug. 15, 2026]."
+  },
+  {
+    "style": "Heading 2",
+    "text": "[7] Microsoft, \"Entity Framework Core,\" Microsoft Learn. [Online]. Available: https://learn.microsoft.com/en-us/ef/core/. [Accessed: Aug. 15, 2026]."
+  },
+  {
+    "style": "Heading 2",
+    "text": "[8] Google, \"Gemini API Documentation,\" Google AI for Developers. [Online]. Available: https://ai.google.dev/docs. [Accessed: Aug. 15, 2026]."
+  },
+  {
+    "style": "Heading 2",
+    "text": "[9] OpenAI, \"OpenAI Developer Platform,\" OpenAI. [Online]. Available: https://platform.openai.com/docs/. [Accessed: Aug. 15, 2026]."
+  },
+  {
+    "style": "Heading 2",
+    "text": "[10] S. Ramírez, \"FastAPI,\" FastAPI.tiangolo.com. [Online]. Available: https://fastapi.tiangolo.com/. [Accessed: Aug. 15, 2026]."
+  },
+  {
+    "style": "Heading 2",
+    "text": "[11] Microsoft, \"ONNX Runtime Documentation,\" ONNX Runtime. [Online]. Available: https://onnxruntime.ai/docs/. [Accessed: Aug. 15, 2026]."
+  },
+  {
+    "style": "Heading 2",
+    "text": "[12] Mapbox, \"Search API,\" Mapbox Documentation. [Online]. Available: https://docs.mapbox.com/api/search/. [Accessed: Aug. 15, 2026]."
+  },
+  {
+    "style": "Heading 2",
+    "text": "[13] VNPAY, \"Hướng dẫn tích hợp cổng thanh toán VNPAY,\" VNPAY Sandbox. [Online]. Available: https://sandbox.vnpayment.vn/apis/docs/huong-dan-tich-hop/. [Accessed: Aug. 15, 2026]."
+  }
+]
